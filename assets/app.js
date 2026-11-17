@@ -26,12 +26,13 @@ function match(a,ignore){
   return true;
 }
 
+function art6(L){var u={};L.forEach(function(a){a.presse.forEach(function(p){u[p.url]=1})});return Object.keys(u).length}
 function kpis(){
   var L=D.artistes.filter(function(a){return match(a,true)});
   var k=[
     ['en_cours','calendar-check','En exposition',L.filter(function(a){return a.en_cours.length}).length,'artistes avec une exposition ouverte aujourd’hui',0],
     ['a_venir','calendar-clock','Exposition à venir',L.filter(function(a){return a.a_venir.length}).length,'artistes avec une ouverture annoncée',0],
-    ['presse','newspaper','Presse, 6 mois',L.reduce(function(s,a){return s+a.presse.length},0),'articles et mentions depuis mai',0],
+    ['presse','newspaper','Presse, 6 mois',art6(L),'Articles distincts depuis le '+D.presse_depuis.replace(/ 2026$/,'')+', chacun compté une fois',0],
     ['opp','award','Opportunités ouvertes',L.reduce(function(s,a){return s+a.opportunites.length},0),'appels à candidatures proposés',0],
     ['dep','truck','En déplacement',L.reduce(function(s,a){return s+a.deplacements.length},0),'œuvres en transport, prêt ou exposition',1],
     ['dossier','file-clock','Dossiers à revoir',L.filter(function(a){return !a.dossier.a_jour}).length,'dossiers d’artiste à mettre à jour, sur '+L.length,1]
@@ -78,7 +79,7 @@ function liste(){
     var o=a.opportunites, oj=o.length&&o[0].jours!=null?o[0].jours:null;
     var lieux=a.lieux.map(function(x){return '<span class="lp">'+x+'</span>'}).join('');
     return '<div class="row" data-i="'+i+'" role="button" tabindex="0">'+
-      '<div class="who"><img class="th-img" src="'+a.img+'?v=20261118a" alt="'+esc(a.legende||a.nom)+'" loading="lazy"><div><p class="n">'+esc(a.nom)+'</p><p class="s">'+(a.statut==='Collaboration'?'<span class="lp coll">Collaboration</span>':'')+lieux+'</p></div></div>'+
+      '<div class="who"><img class="th-img" src="'+a.img+'?v=20261118b" alt="'+esc(a.legende||a.nom)+'" loading="lazy"><div><p class="n">'+esc(a.nom)+'</p><p class="s">'+(a.statut==='Collaboration'?'<span class="lp coll">Collaboration</span>':'')+lieux+'</p></div></div>'+
       '<div class="ex-cell"><span class="lab">Expositions en cours et à venir</span>'+ex+'</div>'+
       '<div><span class="lab">Presse, 6 mois</span>'+num(a.presse.length,'newspaper',a.presse.length?'dernier : '+a.presse[0].date.replace(/ 2026$/,''):'')+'</div>'+
       '<div><span class="lab">Opportunités</span>'+num(o.length,'award',oj!=null?'dans '+oj+' j':'',oj!=null&&oj<=14)+'</div>'+
@@ -96,7 +97,7 @@ function evItem(e){
   return '<div class="it"><p class="t">'+lien(e.url,esc(e.titre))+'</p><p class="r">'+st+'</p><p class="m">'+esc(e.type)+(e.lieu?' · '+esc(e.lieu):'')+' · '+esc(e.periode)+'<br>Source : '+lien(e.url,esc(e.source))+'</p></div>'}
 function ouvrir(i){
   var a=D.artistes[i], h='';
-  h+='<a class="fi-hero" href="'+esc(a.oeuvre_url)+'" target="_blank" rel="noopener"><img src="'+a.img+'?v=20261118a" alt="'+esc(a.legende||a.nom)+'"></a>';
+  h+='<a class="fi-hero" href="'+esc(a.oeuvre_url)+'" target="_blank" rel="noopener"><img src="'+a.img+'?v=20261118b" alt="'+esc(a.legende||a.nom)+'"></a>';
   h+='<p class="fi-cap">'+(a.legende?esc(a.legende)+' · ':'')+lien(a.oeuvre_url,'voir sur le site de la galerie')+'</p>';
   h+='<div class="fi-in"><h3 id="fi-nom">'+esc(a.nom)+'</h3><div class="fi-meta">'+(a.statut==='Collaboration'?'<span class="lp coll">Collaboration</span>':'<span class="lp">Artiste représenté</span>')+a.lieux.map(function(x){return '<span class="lp">'+x+'</span>'}).join('')+'<a class="fi-link" href="'+esc(a.url)+'" target="_blank" rel="noopener">Page de l’artiste '+ic('external-link')+'</a></div>';
   var ev=a.en_cours.concat(a.a_venir);
@@ -134,5 +135,5 @@ function init(d){
   render();
   if(location.hash){var h=decodeURIComponent(location.hash.slice(1));D.artistes.forEach(function(a,i){if(norm(a.nom).replace(/[^a-z0-9]+/g,'-')===h)ouvrir(i)})}
 }
-fetch('data/artistes.json?v=20261118a').then(function(r){return r.json()}).then(init);
+fetch('data/artistes.json?v=20261118b').then(function(r){return r.json()}).then(init);
 })();

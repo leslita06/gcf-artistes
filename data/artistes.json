@@ -1,15 +1,16 @@
 {
  "arrete": "17 nov. 2026",
  "arrete_iso": "2026-11-17",
+ "presse_depuis": "18 mai 2026",
  "artistes": [
   {
    "nom": "Souleymane Keïta (Estate)",
    "statut": "Représenté",
    "url": "https://cecilefakhoury.com/artists/132-souleymane-keita-%28estate%29/overview/",
    "img": "img/132-souleymane-keita-estate.jpg",
-   "ratio": 0.927,
-   "legende": "",
-   "oeuvre_url": "https://cecilefakhoury.com/artists/132-souleymane-keita-%28estate%29/overview/",
+   "ratio": 0.928,
+   "legende": "Synthèse, série n°7, 2004",
+   "oeuvre_url": "https://cecilefakhoury.com/artworks/3498-souleymane-keita-synthese-serie-n7-2004/",
    "lieux_galerie": [
     "Abidjan",
     "Dakar",
@@ -52,6 +53,22 @@
    "recentes": [],
    "presse": [
     {
+     "titre": "Abidjan, les enfants et l'architecture invisible",
+     "media": "Afrique Magazine",
+     "date": "5 août 2026",
+     "iso": "2026-08-05",
+     "url": "https://afriquemagazine.com/abidjan-les-enfants-et-l-architecture-invisible",
+     "source": "Site de la galerie, rubrique Presse"
+    },
+    {
+     "titre": "What's Happening In the Art World This August",
+     "media": "The Cultivist",
+     "date": "3 août 2026",
+     "iso": "2026-08-03",
+     "url": "https://thecultivist.substack.com/p/whats-happening-in-the-art-world-388",
+     "source": "Site de la galerie, rubrique Presse"
+    },
+    {
      "titre": "Why Art Basel Is Reintroducing Souleymane Keïta to a Global Audience",
      "media": "Africans Column",
      "date": "18 juin 2026",
@@ -76,7 +93,7 @@
      "source": "Site de la galerie, rubrique Presse"
     }
    ],
-   "presse_total": 3,
+   "presse_total": 5,
    "opportunites": [],
    "deplacements": [],
    "demandes_presse": [],
@@ -84,7 +101,7 @@
     "maj": "13 juil. 2026",
     "iso": "2026-07-13",
     "a_jour": false,
-    "nouveaux": 1,
+    "nouveaux": 3,
     "dernier_fait": "25 oct. 2026"
    }
   },
@@ -93,9 +110,9 @@
    "statut": "Représenté",
    "url": "https://cecilefakhoury.com/artists/aboudia/overview/",
    "img": "img/aboudia.jpg",
-   "ratio": 1.0,
-   "legende": "",
-   "oeuvre_url": "https://cecilefakhoury.com/artists/aboudia/overview/",
+   "ratio": 1.28,
+   "legende": "Masquerade #9, 2019",
+   "oeuvre_url": "https://cecilefakhoury.com/artworks/831-aboudia-masquerade-9-2019/",
    "lieux_galerie": [
     "Paris"
    ],
@@ -304,8 +321,17 @@
      "source": "Site de la galerie, rubrique Actualités"
     }
    ],
-   "presse": [],
-   "presse_total": 0,
+   "presse": [
+    {
+     "titre": "Abidjan, les enfants et l'architecture invisible",
+     "media": "Afrique Magazine",
+     "date": "5 août 2026",
+     "iso": "2026-08-05",
+     "url": "https://afriquemagazine.com/abidjan-les-enfants-et-l-architecture-invisible",
+     "source": "Site de la galerie, rubrique Presse"
+    }
+   ],
+   "presse_total": 1,
    "opportunites": [],
    "deplacements": [],
    "demandes_presse": [],
@@ -313,7 +339,7 @@
     "maj": "2 avr. 2026",
     "iso": "2026-04-02",
     "a_jour": false,
-    "nouveaux": 8,
+    "nouveaux": 9,
     "dernier_fait": "15 oct. 2026"
    }
   },
@@ -526,6 +552,14 @@
    ],
    "presse": [
     {
+     "titre": "Abidjan, les enfants et l'architecture invisible",
+     "media": "Afrique Magazine",
+     "date": "5 août 2026",
+     "iso": "2026-08-05",
+     "url": "https://afriquemagazine.com/abidjan-les-enfants-et-l-architecture-invisible",
+     "source": "Site de la galerie, rubrique Presse"
+    },
+    {
      "titre": "Portrait. Dalila Dalléas Bouzar : la peinture comme acte de résistance",
      "media": "Le Courrier De L' Atlas",
      "date": "26 juin 2026",
@@ -542,7 +576,7 @@
      "source": "Site de la galerie, rubrique Presse"
     }
    ],
-   "presse_total": 3,
+   "presse_total": 4,
    "opportunites": [],
    "deplacements": [],
    "demandes_presse": [],
@@ -551,7 +585,7 @@
     "iso": "2026-09-06",
     "a_jour": true,
     "nouveaux": 0,
-    "dernier_fait": "26 juin 2026"
+    "dernier_fait": "5 août 2026"
    }
   },
   {
@@ -633,6 +667,14 @@
    ],
    "presse": [
     {
+     "titre": "Le sillage et le ressac – sur « Blackground : murmures des mornes »",
+     "media": "Aoc",
+     "date": "20 oct. 2026",
+     "iso": "2026-10-20",
+     "url": "https://aoc.media/critique/2026/10/19/le-sillage-et-le-ressac-sur-blackground-murmures-des-mornes/",
+     "source": "Site de la galerie, rubrique Presse"
+    },
+    {
      "titre": "“Blackground : murmures des mornes” : à Bordeaux, une exposition interroge l’histoire coloniale",
      "media": "Télérama",
      "date": "1 sept. 2026",
@@ -657,7 +699,7 @@
      "source": "Site de la galerie, rubrique Presse"
     }
    ],
-   "presse_total": 3,
+   "presse_total": 4,
    "opportunites": [
     {
      "nom": "Mensch Maschine VISIT Residency Programme 2027 · Energy Ghosts",
@@ -687,8 +729,8 @@
     "maj": "24 mars 2026",
     "iso": "2026-03-24",
     "a_jour": false,
-    "nouveaux": 9,
-    "dernier_fait": "27 sept. 2026"
+    "nouveaux": 10,
+    "dernier_fait": "20 oct. 2026"
    }
   },
   {
@@ -793,9 +835,9 @@
    "statut": "Représenté",
    "url": "https://cecilefakhoury.com/artists/serigne-ibrahima-dieye/overview/",
    "img": "img/serigne-ibrahima-dieye.jpg",
-   "ratio": 1.0,
-   "legende": "",
-   "oeuvre_url": "https://cecilefakhoury.com/artists/serigne-ibrahima-dieye/overview/",
+   "ratio": 1.005,
+   "legende": "Not for sale #3, 2019",
+   "oeuvre_url": "https://cecilefakhoury.com/artworks/1408-serigne-ibrahima-dieye-not-for-sale-3-2019/",
    "lieux_galerie": [],
    "lieux_actu": [
     "Dakar"
@@ -938,8 +980,17 @@
     }
    ],
    "recentes": [],
-   "presse": [],
-   "presse_total": 5,
+   "presse": [
+    {
+     "titre": "Abidjan, les enfants et l'architecture invisible",
+     "media": "Afrique Magazine",
+     "date": "5 août 2026",
+     "iso": "2026-08-05",
+     "url": "https://afriquemagazine.com/abidjan-les-enfants-et-l-architecture-invisible",
+     "source": "Site de la galerie, rubrique Presse"
+    }
+   ],
+   "presse_total": 6,
    "opportunites": [
     {
      "nom": "Smithsonian Artist Research Fellowship (SARF)",
@@ -968,9 +1019,9 @@
    "dossier": {
     "maj": "15 juil. 2026",
     "iso": "2026-07-15",
-    "a_jour": true,
-    "nouveaux": 0,
-    "dernier_fait": "5 juil. 2026"
+    "a_jour": false,
+    "nouveaux": 1,
+    "dernier_fait": "5 août 2026"
    }
   },
   {
@@ -978,9 +1029,9 @@
    "statut": "Représenté",
    "url": "https://cecilefakhoury.com/artists/yo-yo-gonthier/overview/",
    "img": "img/yo-yo-gonthier.jpg",
-   "ratio": 1.0,
-   "legende": "",
-   "oeuvre_url": "https://cecilefakhoury.com/artists/yo-yo-gonthier/overview/",
+   "ratio": 0.994,
+   "legende": "L’arbre corail, 2020",
+   "oeuvre_url": "https://cecilefakhoury.com/artworks/5059-yo-yo-gonthier-larbre-corail-2020/",
    "lieux_galerie": [],
    "lieux_actu": [],
    "lieux": [],
@@ -1356,6 +1407,14 @@
    ],
    "presse": [
     {
+     "titre": "Abidjan, les enfants et l'architecture invisible",
+     "media": "Afrique Magazine",
+     "date": "5 août 2026",
+     "iso": "2026-08-05",
+     "url": "https://afriquemagazine.com/abidjan-les-enfants-et-l-architecture-invisible",
+     "source": "Site de la galerie, rubrique Presse"
+    },
+    {
      "titre": "À Rome, une exposition de la Villa Médicis révèle seize façons d’habiter et de penser autrement le monde",
      "media": "Numéro",
      "date": "8 juil. 2026",
@@ -1364,7 +1423,7 @@
      "source": "Site de la galerie, rubrique Presse"
     }
    ],
-   "presse_total": 1,
+   "presse_total": 2,
    "opportunites": [
     {
      "nom": "TRACES Art&Science Residency 2027",
@@ -1395,7 +1454,7 @@
     "maj": "22 mai 2026",
     "iso": "2026-05-22",
     "a_jour": false,
-    "nouveaux": 6,
+    "nouveaux": 7,
     "dernier_fait": "17 oct. 2026"
    }
   },
@@ -1664,6 +1723,22 @@
      "source": "Site de la galerie, rubrique Presse"
     },
     {
+     "titre": "Abidjan, les enfants et l'architecture invisible",
+     "media": "Afrique Magazine",
+     "date": "5 août 2026",
+     "iso": "2026-08-05",
+     "url": "https://afriquemagazine.com/abidjan-les-enfants-et-l-architecture-invisible",
+     "source": "Site de la galerie, rubrique Presse"
+    },
+    {
+     "titre": "What's Happening In the Art World This August",
+     "media": "The Cultivist",
+     "date": "3 août 2026",
+     "iso": "2026-08-03",
+     "url": "https://thecultivist.substack.com/p/whats-happening-in-the-art-world-388",
+     "source": "Site de la galerie, rubrique Presse"
+    },
+    {
      "titre": "Explorer d’autres récits de la colonisation lors d’une exposition au Mémorial de Caen",
      "media": "Ouest-France",
      "date": "25 juil. 2026",
@@ -1680,7 +1755,7 @@
      "source": "Site de la galerie, rubrique Presse"
     }
    ],
-   "presse_total": 6,
+   "presse_total": 8,
    "opportunites": [],
    "deplacements": [],
    "demandes_presse": [
@@ -1772,8 +1847,25 @@
      "source": "Site de la galerie, rubrique Actualités"
     }
    ],
-   "presse": [],
-   "presse_total": 0,
+   "presse": [
+    {
+     "titre": "Abidjan, les enfants et l'architecture invisible",
+     "media": "Afrique Magazine",
+     "date": "5 août 2026",
+     "iso": "2026-08-05",
+     "url": "https://afriquemagazine.com/abidjan-les-enfants-et-l-architecture-invisible",
+     "source": "Site de la galerie, rubrique Presse"
+    },
+    {
+     "titre": "What's Happening In the Art World This August",
+     "media": "The Cultivist",
+     "date": "3 août 2026",
+     "iso": "2026-08-03",
+     "url": "https://thecultivist.substack.com/p/whats-happening-in-the-art-world-388",
+     "source": "Site de la galerie, rubrique Presse"
+    }
+   ],
+   "presse_total": 2,
    "opportunites": [
     {
      "nom": "Pollock-Krasner Foundation Grant",
@@ -1802,9 +1894,9 @@
    "dossier": {
     "maj": "7 juin 2026",
     "iso": "2026-06-07",
-    "a_jour": true,
-    "nouveaux": 0,
-    "dernier_fait": "20 mai 2026"
+    "a_jour": false,
+    "nouveaux": 2,
+    "dernier_fait": "5 août 2026"
    }
   },
   {
@@ -1936,9 +2028,9 @@
    "statut": "Représenté",
    "url": "https://cecilefakhoury.com/artists/54-bamouin-sinze/overview/",
    "img": "img/54-bamouin-sinze.jpg",
-   "ratio": 0.933,
-   "legende": "",
-   "oeuvre_url": "https://cecilefakhoury.com/artists/54-bamouin-sinze/overview/",
+   "ratio": 1.0,
+   "legende": "Errance, 2020",
+   "oeuvre_url": "https://cecilefakhoury.com/artworks/1436-bamouin-sinze-errance-2020/",
    "lieux_galerie": [],
    "lieux_actu": [],
    "lieux": [],
@@ -2015,6 +2107,22 @@
    ],
    "presse": [
     {
+     "titre": "Abidjan, les enfants et l'architecture invisible",
+     "media": "Afrique Magazine",
+     "date": "5 août 2026",
+     "iso": "2026-08-05",
+     "url": "https://afriquemagazine.com/abidjan-les-enfants-et-l-architecture-invisible",
+     "source": "Site de la galerie, rubrique Presse"
+    },
+    {
+     "titre": "What's Happening In the Art World This August",
+     "media": "The Cultivist",
+     "date": "3 août 2026",
+     "iso": "2026-08-03",
+     "url": "https://thecultivist.substack.com/p/whats-happening-in-the-art-world-388",
+     "source": "Site de la galerie, rubrique Presse"
+    },
+    {
      "titre": "Ouattar Watts à Abidjan 2026 - Sur le pont des Arts",
      "media": "Rfi",
      "date": "20 mai 2026",
@@ -2023,7 +2131,7 @@
      "source": "Site de la galerie, rubrique Presse"
     }
    ],
-   "presse_total": 3,
+   "presse_total": 5,
    "opportunites": [
     {
      "nom": "500 Capp Street International Artist Exhibition 2027",
@@ -2053,7 +2161,7 @@
     "maj": "2 avr. 2026",
     "iso": "2026-04-02",
     "a_jour": false,
-    "nouveaux": 7,
+    "nouveaux": 9,
     "dernier_fait": "5 nov. 2026"
    }
   },
@@ -2062,9 +2170,9 @@
    "statut": "Collaboration",
    "url": "https://cecilefakhoury.com/artists/129-eva-diallo/overview/",
    "img": "img/129-eva-diallo.jpg",
-   "ratio": 0.75,
-   "legende": "",
-   "oeuvre_url": "https://cecilefakhoury.com/artists/129-eva-diallo/overview/",
+   "ratio": 0.741,
+   "legende": "Bolol part V - 6, 2022",
+   "oeuvre_url": "https://cecilefakhoury.com/artworks/5414-eva-diallo-bolol-part-v-6-2022/",
    "lieux_galerie": [],
    "lieux_actu": [
     "Dakar"
@@ -2115,17 +2223,42 @@
    "statut": "Collaboration",
    "url": "https://cecilefakhoury.com/artists/139-ernest-duku/overview/",
    "img": "img/139-ernest-duku.jpg",
-   "ratio": 0.702,
-   "legende": "",
-   "oeuvre_url": "https://cecilefakhoury.com/artists/139-ernest-duku/overview/",
+   "ratio": 0.695,
+   "legende": "Amaatawale suite @ code Komian equation 002 DJLMN, 2026",
+   "oeuvre_url": "https://cecilefakhoury.com/artworks/7594-ernest-duku-amaatawale-suite-code-komian-equation-002-djlmn-2026/",
    "lieux_galerie": [],
    "lieux_actu": [],
    "lieux": [],
    "en_cours": [],
    "a_venir": [],
    "recentes": [],
-   "presse": [],
-   "presse_total": 0,
+   "presse": [
+    {
+     "titre": "Abidjan, les enfants et l'architecture invisible",
+     "media": "Afrique Magazine",
+     "date": "5 août 2026",
+     "iso": "2026-08-05",
+     "url": "https://afriquemagazine.com/abidjan-les-enfants-et-l-architecture-invisible",
+     "source": "Site de la galerie, rubrique Presse"
+    },
+    {
+     "titre": "La reco Brut de la semaine",
+     "media": "Brut Afrique",
+     "date": "3 août 2026",
+     "iso": "2026-08-03",
+     "url": "https://www.instagram.com/p/DblLBVUiKOL/",
+     "source": "Site de la galerie, rubrique Presse"
+    },
+    {
+     "titre": "What's Happening In the Art World This August",
+     "media": "The Cultivist",
+     "date": "3 août 2026",
+     "iso": "2026-08-03",
+     "url": "https://thecultivist.substack.com/p/whats-happening-in-the-art-world-388",
+     "source": "Site de la galerie, rubrique Presse"
+    }
+   ],
+   "presse_total": 3,
    "opportunites": [],
    "deplacements": [],
    "demandes_presse": [],
@@ -2133,8 +2266,8 @@
     "maj": "12 janv. 2026",
     "iso": "2026-01-12",
     "a_jour": false,
-    "nouveaux": 1,
-    "dernier_fait": "26 juin 2026"
+    "nouveaux": 4,
+    "dernier_fait": "5 août 2026"
    }
   },
   {
@@ -2142,9 +2275,9 @@
    "statut": "Collaboration",
    "url": "https://cecilefakhoury.com/artists/118-fanny-irina/overview/",
    "img": "img/118-fanny-irina.jpg",
-   "ratio": 0.98,
-   "legende": "",
-   "oeuvre_url": "https://cecilefakhoury.com/artists/118-fanny-irina/overview/",
+   "ratio": 0.761,
+   "legende": "Sans Titre, 2021",
+   "oeuvre_url": "https://cecilefakhoury.com/artworks/3221-fanny-irina-sans-titre-2021/",
    "lieux_galerie": [],
    "lieux_actu": [],
    "lieux": [],
@@ -2169,9 +2302,9 @@
    "statut": "Collaboration",
    "url": "https://cecilefakhoury.com/artists/115-ange-frederic-koffi/overview/",
    "img": "img/115-ange-frederic-koffi.jpg",
-   "ratio": 0.667,
-   "legende": "",
-   "oeuvre_url": "https://cecilefakhoury.com/artists/115-ange-frederic-koffi/overview/",
+   "ratio": 0.758,
+   "legende": "Kabakrou, série Sinner Man, 2017",
+   "oeuvre_url": "https://cecilefakhoury.com/artworks/3240-ange-frederic-koffi-kabakrou-serie-sinner-man-2017/",
    "lieux_galerie": [],
    "lieux_actu": [],
    "lieux": [],
@@ -2206,8 +2339,8 @@
    "url": "https://cecilefakhoury.com/artists/131-kambui-olujimi/overview/",
    "img": "img/131-kambui-olujimi.jpg",
    "ratio": 0.827,
-   "legende": "",
-   "oeuvre_url": "https://cecilefakhoury.com/artists/131-kambui-olujimi/overview/",
+   "legende": "Star Walker, 2023",
+   "oeuvre_url": "https://cecilefakhoury.com/artworks/5881-kambui-olujimi-star-walker-2023/",
    "lieux_galerie": [],
    "lieux_actu": [],
    "lieux": [],
@@ -2232,9 +2365,9 @@
    "statut": "Collaboration",
    "url": "https://cecilefakhoury.com/artists/111-na-chainkua-reindorf/overview/",
    "img": "img/111-na-chainkua-reindorf.jpg",
-   "ratio": 0.786,
-   "legende": "",
-   "oeuvre_url": "https://cecilefakhoury.com/artists/111-na-chainkua-reindorf/overview/",
+   "ratio": 1.221,
+   "legende": "Lying in wait 2, 2020",
+   "oeuvre_url": "https://cecilefakhoury.com/artworks/3172-na-chainkua-reindorf-lying-in-wait-2-2020/",
    "lieux_galerie": [
     "Dakar"
    ],
@@ -2290,9 +2423,9 @@
    "statut": "Collaboration",
    "url": "https://cecilefakhoury.com/artists/138-werewere-liking/overview/",
    "img": "img/138-werewere-liking.jpg",
-   "ratio": 1.373,
-   "legende": "",
-   "oeuvre_url": "https://cecilefakhoury.com/artists/138-werewere-liking/overview/",
+   "ratio": 1.072,
+   "legende": "Cité des Tsunamis, 2011",
+   "oeuvre_url": "https://cecilefakhoury.com/artworks/7574-werewere-liking-cite-des-tsunamis-2011/",
    "lieux_galerie": [],
    "lieux_actu": [],
    "lieux": [],
@@ -2311,8 +2444,25 @@
    ],
    "a_venir": [],
    "recentes": [],
-   "presse": [],
-   "presse_total": 0,
+   "presse": [
+    {
+     "titre": "Abidjan, les enfants et l'architecture invisible",
+     "media": "Afrique Magazine",
+     "date": "5 août 2026",
+     "iso": "2026-08-05",
+     "url": "https://afriquemagazine.com/abidjan-les-enfants-et-l-architecture-invisible",
+     "source": "Site de la galerie, rubrique Presse"
+    },
+    {
+     "titre": "What's Happening In the Art World This August",
+     "media": "The Cultivist",
+     "date": "3 août 2026",
+     "iso": "2026-08-03",
+     "url": "https://thecultivist.substack.com/p/whats-happening-in-the-art-world-388",
+     "source": "Site de la galerie, rubrique Presse"
+    }
+   ],
+   "presse_total": 2,
    "opportunites": [],
    "deplacements": [],
    "demandes_presse": [],
@@ -2320,8 +2470,8 @@
     "maj": "27 avr. 2026",
     "iso": "2026-04-27",
     "a_jour": false,
-    "nouveaux": 3,
-    "dernier_fait": "26 juin 2026"
+    "nouveaux": 5,
+    "dernier_fait": "5 août 2026"
    }
   }
  ],
@@ -2333,8 +2483,9 @@
   "expos_en_cours": 17,
   "expos_a_venir": 5,
   "presse_6m": 28,
+  "presse_6m_cites": 28,
   "opportunites": 12,
   "deplacements": 8,
-  "dossiers_a_maj": 17
+  "dossiers_a_maj": 19
  }
 }
