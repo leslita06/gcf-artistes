@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Galerie Cécile Fakhoury · Les artistes</title>
+<link rel="icon" href="data:,">
+<link rel="preload" href="assets/Inter.ttf" as="font" type="font/ttf" crossorigin>
+<link rel="stylesheet" href="assets/style.css?v=20261118a">
+</head>
+<body>
+<header class="masthead">
+  <div class="wrap mh">
+    <img src="assets/logo.png" alt="Cécile Fakhoury" class="logo">
+    <div class="mh-right">
+      <p class="eyebrow">Suivi des artistes</p>
+      <p class="arrete"><i class="ic" data-ic="calendar-days"></i>Arrêté au <span id="arrete"></span></p>
+    </div>
+  </div>
+</header>
+<div class="demo"><div class="wrap"><i class="ic" data-ic="info"></i><span><b>Démonstration.</b> Expositions, presse et opportunités sont réelles, datées et sourcées. Œuvres en déplacement, demandes de journalistes et dates des dossiers d’artiste sont des exemples.</span></div></div>
+
+<div class="filters">
+  <div class="wrap fl">
+    <label>Lieu
+      <select id="f-lieu">
+        <option value="all">Tous les lieux</option>
+        <option>Abidjan</option><option>Dakar</option><option>Paris</option>
+      </select>
+    </label>
+    <label>Statut
+      <select id="f-statut">
+        <option value="all">Tous</option>
+        <option value="en_cours">En exposition</option>
+        <option value="a_venir">Exposition à venir</option>
+        <option value="opp">Opportunité ouverte</option>
+        <option value="dep">Œuvre en déplacement</option>
+        <option value="dossier">Dossier à mettre à jour</option>
+        <option value="calme">Sans actualité récente</option>
+      </select>
+    </label>
+    <label>Lien avec la galerie
+      <select id="f-rel">
+        <option value="all">Représentés et collaborations</option>
+        <option value="Représenté">Artistes représentés</option>
+        <option value="Collaboration">Collaborations</option>
+      </select>
+    </label>
+    <label class="srch">Rechercher
+      <span class="si"><i class="ic" data-ic="search"></i><input id="f-q" type="search" placeholder="Nom d’un artiste" autocomplete="off"></span>
+    </label>
+    <button id="raz" class="raz"><i class="ic" data-ic="rotate-ccw"></i>Réinitialiser</button>
+  </div>
+</div>
+
+<main class="wrap">
+  <section class="intro">
+    <h1>Les artistes de la galerie</h1>
+    <p id="phrase" class="lede"></p>
+  </section>
+
+  <section class="kpis" id="kpis"></section>
+
+  <section class="block">
+    <div class="bh"><span class="bx"><i class="ic" data-ic="lightbulb"></i></span><h2>À regarder cette semaine</h2></div>
+    <div class="retenir" id="retenir"></div>
+  </section>
+
+  <section class="block">
+    <div class="bh"><span class="bx"><i class="ic" data-ic="palette"></i></span><h2 id="t-liste">Les artistes</h2><p class="hint">Cliquer sur un artiste ouvre sa fiche.</p></div>
+    <div class="thead" aria-hidden="true">
+      <span>Artiste</span><span>Expositions en cours et à venir</span><span>Presse, 6 mois</span><span>Opportunités</span><span>En déplacement</span><span>Dossier d’artiste</span>
+    </div>
+    <div id="liste" class="liste"></div>
+    <p id="vide" class="empty hidden">Aucun artiste ne correspond à ces filtres.</p>
+  </section>
+</main>
+
+<footer class="foot">
+  <div class="wrap">
+    <p><strong>D’où viennent les chiffres.</strong> Réels : la liste des artistes et leurs œuvres (site de la galerie), les expositions, foires, résidences et prix (rubriques Actualités, Expositions et Foires du site, complétées par la veille quotidienne), la presse (rubrique Presse du site et articles relevés par la veille), les appels à candidatures ouverts (sites des organisateurs). Tout est relevé le 17 novembre 2026, chaque ligne renvoie à sa source. Le rapprochement entre une opportunité et un artiste est une proposition, à valider par la galerie.</p>
+    <p><strong>Exemples.</strong> Les œuvres en déplacement, les demandes de journalistes et la date de dernière mise à jour des dossiers d’artiste sont inventés pour la démonstration. Un dossier est dit « à mettre à jour » quand une exposition ou un article public est postérieur à sa dernière mise à jour.</p>
+    <p class="small">Le filtre « Lieu » retient les artistes exposés dans cet espace de la galerie depuis 2024, ou dont une exposition en cours ou à venir s’y tient.</p>
+  </div>
+</footer>
+
+<div id="fiche" class="fiche hidden" role="dialog" aria-modal="true" aria-labelledby="fi-nom">
+  <div class="fi-back" data-close></div>
+  <article class="fi-panel">
+    <button class="fi-x" data-close aria-label="Fermer"><i class="ic" data-ic="x"></i></button>
+    <div id="fi-body"></div>
+  </article>
+</div>
+
+<script src="assets/app.js?v=20261118a"></script>
+</body>
+</html>

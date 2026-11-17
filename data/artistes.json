@@ -1,0 +1,2340 @@
+{
+ "arrete": "17 nov. 2026",
+ "arrete_iso": "2026-11-17",
+ "artistes": [
+  {
+   "nom": "Souleymane Keïta (Estate)",
+   "statut": "Représenté",
+   "url": "https://cecilefakhoury.com/artists/132-souleymane-keita-%28estate%29/overview/",
+   "img": "img/132-souleymane-keita-estate.jpg",
+   "ratio": 0.927,
+   "legende": "",
+   "oeuvre_url": "https://cecilefakhoury.com/artists/132-souleymane-keita-%28estate%29/overview/",
+   "lieux_galerie": [
+    "Abidjan",
+    "Dakar",
+    "Paris"
+   ],
+   "lieux_actu": [
+    "Paris"
+   ],
+   "lieux": [
+    "Abidjan",
+    "Dakar",
+    "Paris"
+   ],
+   "en_cours": [
+    {
+     "titre": "Woven Monuments: Tapestry and Identity in Senegal",
+     "lieu": "Bamltimore Museum of Art, États-Unis",
+     "periode": "25 oct. 2026 – 7 mars 2027",
+     "debut": "2026-10-25",
+     "fin": "2027-03-07",
+     "type": "Exposition",
+     "etat": "en_cours",
+     "url": "https://cecilefakhoury.com/events/539/",
+     "source": "Site de la galerie, rubrique Actualités"
+    }
+   ],
+   "a_venir": [
+    {
+     "titre": "Paris noir traversées, détours, retours",
+     "lieu": "FONDATION CLÉMENT, Martinique",
+     "periode": "12 déc. 2026 – 14 mars 2027",
+     "debut": "2026-12-12",
+     "fin": "2027-03-14",
+     "type": "Exposition",
+     "etat": "a_venir",
+     "url": "https://cecilefakhoury.com/events/551/",
+     "source": "Site de la galerie, rubrique Actualités"
+    }
+   ],
+   "recentes": [],
+   "presse": [
+    {
+     "titre": "Why Art Basel Is Reintroducing Souleymane Keïta to a Global Audience",
+     "media": "Africans Column",
+     "date": "18 juin 2026",
+     "iso": "2026-06-18",
+     "url": "https://africanscolumn.com/why-art-basel-is-reintroducing-souleymane-keita-to-a-global-audience/",
+     "source": "Site de la galerie, rubrique Presse"
+    },
+    {
+     "titre": "An eight-figure Picasso sets the tone for Art Basel’s opening sales",
+     "media": "Art Basel",
+     "date": "17 juin 2026",
+     "iso": "2026-06-17",
+     "url": "https://www.artbasel.com/stories/art-basel-2026-strong-sales-opening?lang=fr",
+     "source": "Site de la galerie, rubrique Presse"
+    },
+    {
+     "titre": "Art Basel 2026, une édition très « exclusive »",
+     "media": "The Art Newspaper (Édition française)",
+     "date": "15 juin 2026",
+     "iso": "2026-06-15",
+     "url": "https://www.artnewspaper.fr/2026/06/15/art-basel-2026-une-edition-tres-exclusive",
+     "source": "Site de la galerie, rubrique Presse"
+    }
+   ],
+   "presse_total": 3,
+   "opportunites": [],
+   "deplacements": [],
+   "demandes_presse": [],
+   "dossier": {
+    "maj": "13 juil. 2026",
+    "iso": "2026-07-13",
+    "a_jour": false,
+    "nouveaux": 1,
+    "dernier_fait": "25 oct. 2026"
+   }
+  },
+  {
+   "nom": "Aboudia",
+   "statut": "Représenté",
+   "url": "https://cecilefakhoury.com/artists/aboudia/overview/",
+   "img": "img/aboudia.jpg",
+   "ratio": 1.0,
+   "legende": "",
+   "oeuvre_url": "https://cecilefakhoury.com/artists/aboudia/overview/",
+   "lieux_galerie": [
+    "Paris"
+   ],
+   "lieux_actu": [],
+   "lieux": [
+    "Paris"
+   ],
+   "en_cours": [],
+   "a_venir": [],
+   "recentes": [
+    {
+     "titre": "(Dé)colonisations : des artistes africains interrogent l’histoire",
+     "lieu": "Mémorial de Caen , France",
+     "periode": "20 mai – 11 nov. 2026",
+     "debut": "2026-05-20",
+     "fin": "2026-11-11",
+     "type": "Exposition",
+     "etat": "passe",
+     "url": "https://cecilefakhoury.com/events/519/",
+     "source": "Site de la galerie, rubrique Actualités"
+    },
+    {
+     "titre": "Exposition personnelle « Mémoire vive », première à Lyon, œuvres toutes de 2026",
+     "lieu": "Galerie Bonnet-Abelin, Lyon, France",
+     "periode": "15 oct. – 10 nov. 2026",
+     "debut": "2026-10-15",
+     "fin": "2026-11-10",
+     "type": "Exposition",
+     "etat": "passe",
+     "url": "https://galeriebonnetabelin.com/pages/expositions",
+     "source": "Veille du matin, relevé du 17/11/2026"
+    },
+    {
+     "titre": "Africa Legacy",
+     "lieu": "Espace Vanderborght, Bruxelles, Belgique",
+     "periode": "4 sept. – 1 nov. 2026",
+     "debut": "2026-09-04",
+     "fin": "2026-11-01",
+     "type": "Exposition",
+     "etat": "passe",
+     "url": "https://cecilefakhoury.com/events/525/",
+     "source": "Site de la galerie, rubrique Actualités"
+    }
+   ],
+   "presse": [],
+   "presse_total": 0,
+   "opportunites": [],
+   "deplacements": [],
+   "demandes_presse": [],
+   "dossier": {
+    "maj": "22 juin 2026",
+    "iso": "2026-06-22",
+    "a_jour": false,
+    "nouveaux": 2,
+    "dernier_fait": "15 oct. 2026"
+   }
+  },
+  {
+   "nom": "Mariam Abouzid Souali",
+   "statut": "Représenté",
+   "url": "https://cecilefakhoury.com/artists/100-mariam-abouzid-souali/overview/",
+   "img": "img/100-mariam-abouzid-souali.jpg",
+   "ratio": 0.797,
+   "legende": "Angelus Novus, 2024",
+   "oeuvre_url": "https://cecilefakhoury.com/artists/100-mariam-abouzid-souali/works/6668-mariam-abouzid-souali-angelus-novus-2024/",
+   "lieux_galerie": [],
+   "lieux_actu": [],
+   "lieux": [],
+   "en_cours": [],
+   "a_venir": [],
+   "recentes": [],
+   "presse": [],
+   "presse_total": 0,
+   "opportunites": [
+    {
+     "nom": "SAVAGE Emerging Artist Competition 2027",
+     "type": "Appel à candidatures",
+     "pays": "États-Unis",
+     "limite": "1 déc. 2026",
+     "iso": "2026-12-01",
+     "jours": 14,
+     "pourquoi": "Artiste émergente, peinture.",
+     "contenu": "Finalistes exposés à Los Angeles ; thème « Unlimited ».",
+     "url": "https://kyekyekule.com/opportunities/all"
+    }
+   ],
+   "deplacements": [],
+   "demandes_presse": [],
+   "dossier": {
+    "maj": "24 mai 2026",
+    "iso": "2026-05-24",
+    "a_jour": true,
+    "nouveaux": 0,
+    "dernier_fait": ""
+   }
+  },
+  {
+   "nom": "Assoukrou Aké",
+   "statut": "Représenté",
+   "url": "https://cecilefakhoury.com/artists/122-assoukrou-ake/overview/",
+   "img": "img/122-assoukrou-ake.jpg",
+   "ratio": 0.603,
+   "legende": "La naissance du Blolo Bla, 2024",
+   "oeuvre_url": "https://cecilefakhoury.com/artists/122-assoukrou-ake/works/6234-assoukrou-ake-la-naissance-du-blolo-bla-2024/",
+   "lieux_galerie": [
+    "Abidjan",
+    "Paris"
+   ],
+   "lieux_actu": [
+    "Paris"
+   ],
+   "lieux": [
+    "Abidjan",
+    "Paris"
+   ],
+   "en_cours": [],
+   "a_venir": [
+    {
+     "titre": "Les Rendez-vous géopolitiques de Strasbourg",
+     "lieu": "",
+     "periode": "21 nov. 2026",
+     "debut": "2026-11-21",
+     "fin": "2026-11-21",
+     "type": "Rencontre",
+     "etat": "a_venir",
+     "url": "https://cecilefakhoury.com/events/552/",
+     "source": "Site de la galerie, rubrique Actualités"
+    },
+    {
+     "titre": "Paris noir traversées, détours, retours",
+     "lieu": "FONDATION CLÉMENT, Martinique",
+     "periode": "12 déc. 2026 – 14 mars 2027",
+     "debut": "2026-12-12",
+     "fin": "2027-03-14",
+     "type": "Exposition",
+     "etat": "a_venir",
+     "url": "https://cecilefakhoury.com/events/551/",
+     "source": "Site de la galerie, rubrique Actualités"
+    }
+   ],
+   "recentes": [
+    {
+     "titre": "Exposition anniversaire du Prix ellipse",
+     "lieu": "",
+     "periode": "15 oct. – 31 oct. 2026",
+     "debut": "2026-10-15",
+     "fin": "2026-10-31",
+     "type": "Prix",
+     "etat": "passe",
+     "url": "https://cecilefakhoury.com/events/540/",
+     "source": "Site de la galerie, rubrique Actualités"
+    },
+    {
+     "titre": "70e anniversaire du Premier Congrès des écrivains et artistes noirs",
+     "lieu": "Galerie Soufflot, Paris, France",
+     "periode": "17 sept. – 30 oct. 2026",
+     "debut": "2026-09-17",
+     "fin": "2026-10-30",
+     "type": "Exposition",
+     "etat": "passe",
+     "url": "https://cecilefakhoury.com/events/531/",
+     "source": "Site de la galerie, rubrique Actualités"
+    },
+    {
+     "titre": "Nourrir les débris",
+     "lieu": "Brasseries Atlas, Bruxelles, Belgique",
+     "periode": "8 oct. – 29 oct. 2026",
+     "debut": "2026-10-08",
+     "fin": "2026-10-29",
+     "type": "Exposition",
+     "etat": "passe",
+     "url": "https://cecilefakhoury.com/events/536/",
+     "source": "Site de la galerie, rubrique Actualités"
+    },
+    {
+     "titre": "La vie climatique. Histoires sensibles des collections privées - Triennale De leur temps #8",
+     "lieu": "Musée d'Art Contemporain [",
+     "periode": "4 avr. – 20 sept. 2026",
+     "debut": "2026-04-04",
+     "fin": "2026-09-20",
+     "type": "Exposition",
+     "etat": "passe",
+     "url": "https://cecilefakhoury.com/events/487/",
+     "source": "Site de la galerie, rubrique Actualités"
+    },
+    {
+     "titre": "Résidence : Assoukrou Aké",
+     "lieu": "Polyominos, Nancy, France",
+     "periode": "31 août – 13 sept. 2026",
+     "debut": "2026-08-31",
+     "fin": "2026-09-13",
+     "type": "Résidence",
+     "etat": "passe",
+     "url": "https://cecilefakhoury.com/events/527/",
+     "source": "Site de la galerie, rubrique Actualités"
+    },
+    {
+     "titre": "Édition d'art et monographie : une conversation entre assoukrou aké et edem allado",
+     "lieu": "Polyominos, Nancy, France",
+     "periode": "13 sept. 2026",
+     "debut": "2026-09-13",
+     "fin": "2026-09-13",
+     "type": "Rencontre",
+     "etat": "passe",
+     "url": "https://cecilefakhoury.com/events/529/",
+     "source": "Site de la galerie, rubrique Actualités"
+    }
+   ],
+   "presse": [],
+   "presse_total": 0,
+   "opportunites": [],
+   "deplacements": [],
+   "demandes_presse": [],
+   "dossier": {
+    "maj": "2 avr. 2026",
+    "iso": "2026-04-02",
+    "a_jour": false,
+    "nouveaux": 8,
+    "dernier_fait": "15 oct. 2026"
+   }
+  },
+  {
+   "nom": "Jess Atieno",
+   "statut": "Représenté",
+   "url": "https://cecilefakhoury.com/artists/96-jess-atieno/overview/",
+   "img": "img/96-jess-atieno.jpg",
+   "ratio": 0.708,
+   "legende": "Bikra, 2023",
+   "oeuvre_url": "https://cecilefakhoury.com/artists/96-jess-atieno/works/5849-jess-atieno-bikra-2023/",
+   "lieux_galerie": [
+    "Abidjan",
+    "Dakar",
+    "Paris"
+   ],
+   "lieux_actu": [],
+   "lieux": [
+    "Abidjan",
+    "Dakar",
+    "Paris"
+   ],
+   "en_cours": [],
+   "a_venir": [],
+   "recentes": [
+    {
+     "titre": "(Dé)colonisations : des artistes africains interrogent l’histoire",
+     "lieu": "Mémorial de Caen , France",
+     "periode": "20 mai – 11 nov. 2026",
+     "debut": "2026-05-20",
+     "fin": "2026-11-11",
+     "type": "Exposition",
+     "etat": "passe",
+     "url": "https://cecilefakhoury.com/events/519/",
+     "source": "Site de la galerie, rubrique Actualités"
+    },
+    {
+     "titre": "In This Valley of Dying Stars",
+     "lieu": "The African Art Trust, Nairobi, Kenya",
+     "periode": "12 juin – 16 août 2026",
+     "debut": "2026-06-12",
+     "fin": "2026-08-16",
+     "type": "Exposition",
+     "etat": "passe",
+     "url": "https://cecilefakhoury.com/events/509/",
+     "source": "Site de la galerie, rubrique Actualités"
+    },
+    {
+     "titre": "Sightlines, Ghosts, and Other Stories of the Impossible",
+     "lieu": "Art + Public Life, Chicago",
+     "periode": "26 mars – 25 juil. 2026",
+     "debut": "2026-03-26",
+     "fin": "2026-07-25",
+     "type": "Exposition",
+     "etat": "passe",
+     "url": "https://cecilefakhoury.com/events/481/",
+     "source": "Site de la galerie, rubrique Actualités"
+    }
+   ],
+   "presse": [],
+   "presse_total": 0,
+   "opportunites": [],
+   "deplacements": [],
+   "demandes_presse": [],
+   "dossier": {
+    "maj": "10 juin 2026",
+    "iso": "2026-06-10",
+    "a_jour": false,
+    "nouveaux": 1,
+    "dernier_fait": "12 juin 2026"
+   }
+  },
+  {
+   "nom": "Armand Boua",
+   "statut": "Représenté",
+   "url": "https://cecilefakhoury.com/artists/32-armand-boua/overview/",
+   "img": "img/32-armand-boua.jpg",
+   "ratio": 1.0,
+   "legende": "Untitled #5, 2019",
+   "oeuvre_url": "https://cecilefakhoury.com/artists/32-armand-boua/works/205-armand-boua-untitled-5-2019/",
+   "lieux_galerie": [],
+   "lieux_actu": [],
+   "lieux": [],
+   "en_cours": [],
+   "a_venir": [],
+   "recentes": [],
+   "presse": [],
+   "presse_total": 0,
+   "opportunites": [],
+   "deplacements": [],
+   "demandes_presse": [],
+   "dossier": {
+    "maj": "27 juin 2026",
+    "iso": "2026-06-27",
+    "a_jour": true,
+    "nouveaux": 0,
+    "dernier_fait": ""
+   }
+  },
+  {
+   "nom": "Thibaut Bouedjoro-Camus",
+   "statut": "Représenté",
+   "url": "https://cecilefakhoury.com/artists/109-thibaut-bouedjoro-camus/overview/",
+   "img": "img/109-thibaut-bouedjoro-camus.jpg",
+   "ratio": 0.791,
+   "legende": "Le Jeu II, 2023",
+   "oeuvre_url": "https://cecilefakhoury.com/artists/109-thibaut-bouedjoro-camus/works/5536-thibaut-bouedjoro-camus-le-jeu-ii-2023/",
+   "lieux_galerie": [
+    "Abidjan",
+    "Paris"
+   ],
+   "lieux_actu": [],
+   "lieux": [
+    "Abidjan",
+    "Paris"
+   ],
+   "en_cours": [],
+   "a_venir": [],
+   "recentes": [],
+   "presse": [],
+   "presse_total": 0,
+   "opportunites": [],
+   "deplacements": [],
+   "demandes_presse": [],
+   "dossier": {
+    "maj": "26 avr. 2026",
+    "iso": "2026-04-26",
+    "a_jour": true,
+    "nouveaux": 0,
+    "dernier_fait": "21 févr. 2026"
+   }
+  },
+  {
+   "nom": "Dalila Dalléas Bouzar",
+   "statut": "Représenté",
+   "url": "https://cecilefakhoury.com/artists/27-dalila-dalleas-bouzar/overview/",
+   "img": "img/27-dalila-dalleas-bouzar.jpg",
+   "ratio": 0.845,
+   "legende": "De chair et de rouille, 2026",
+   "oeuvre_url": "https://cecilefakhoury.com/artists/27-dalila-dalleas-bouzar/works/7566-dalila-dalleas-bouzar-de-chair-et-de-rouille-2026/",
+   "lieux_galerie": [
+    "Abidjan",
+    "Dakar",
+    "Paris"
+   ],
+   "lieux_actu": [],
+   "lieux": [
+    "Abidjan",
+    "Dakar",
+    "Paris"
+   ],
+   "en_cours": [],
+   "a_venir": [],
+   "recentes": [
+    {
+     "titre": "Dans « Le temps du rêve de l'enfant — Architectures invisibles »",
+     "lieu": "Galerie Cécile Fakhoury, Abidjan",
+     "periode": "24 juin – 12 sept. 2026",
+     "debut": "2026-06-24",
+     "fin": "2026-09-12",
+     "type": "Exposition",
+     "etat": "passe",
+     "url": "https://cecilefakhoury.com/exhibitions/129-le-temps-du-reve-de-lenfant-architectures-exposition-collective/overview/",
+     "source": "Veille du matin, relevé du 17/11/2026"
+    },
+    {
+     "titre": "Aux origines. Regards croisés sur le racisme",
+     "lieu": "Palais de la Porte Dorée",
+     "periode": "5 juin – 23 août 2026",
+     "debut": "2026-06-05",
+     "fin": "2026-08-23",
+     "type": "Exposition",
+     "etat": "passe",
+     "url": "https://cecilefakhoury.com/events/510/",
+     "source": "Site de la galerie, rubrique Actualités"
+    },
+    {
+     "titre": "DALILA DALLÉAS BOUZAR : 3 édition de Villa Swagatam, RÉSIDENCE",
+     "lieu": "Kalhath Institute",
+     "periode": "1 nov. 2025 – 1 août 2026",
+     "debut": "2025-11-01",
+     "fin": "2026-08-01",
+     "type": "Exposition",
+     "etat": "passe",
+     "url": "https://cecilefakhoury.com/events/417/",
+     "source": "Site de la galerie, rubrique Actualités"
+    },
+    {
+     "titre": "Prolongations",
+     "lieu": "ICI – Institut des Cultures d'Islam",
+     "periode": "21 mars – 26 juil. 2026",
+     "debut": "2026-03-21",
+     "fin": "2026-07-26",
+     "type": "Exposition",
+     "etat": "passe",
+     "url": "https://cecilefakhoury.com/events/480/",
+     "source": "Site de la galerie, rubrique Actualités"
+    },
+    {
+     "titre": "Par-delà les mille et une nuits. histoires des orientalismes",
+     "lieu": "Louvre Lens",
+     "periode": "25 mars – 20 juil. 2026",
+     "debut": "2026-03-25",
+     "fin": "2026-07-20",
+     "type": "Exposition",
+     "etat": "passe",
+     "url": "https://cecilefakhoury.com/events/483/",
+     "source": "Site de la galerie, rubrique Actualités"
+    }
+   ],
+   "presse": [
+    {
+     "titre": "Portrait. Dalila Dalléas Bouzar : la peinture comme acte de résistance",
+     "media": "Le Courrier De L' Atlas",
+     "date": "26 juin 2026",
+     "iso": "2026-06-26",
+     "url": "https://www.lecourrierdelatlas.com/dalila-dalleas-bouzar-peinture-artiste-franco-algerienne/",
+     "source": "Site de la galerie, rubrique Presse"
+    },
+    {
+     "titre": "« Aux origines. Regards croisés sur le racisme » au Musée national de l’histoire de l’immigration : 50 nuances de discrimination",
+     "media": "Le Monde",
+     "date": "9 juin 2026",
+     "iso": "2026-06-09",
+     "url": "https://www.lemonde.fr/culture/article/2026/06/09/aux-origines-regards-croises-sur-le-racisme-au-musee-national-de-l-histoire-de-l-immigration-50-nuances-de-discrimination_6700160_3246.html",
+     "source": "Site de la galerie, rubrique Presse"
+    }
+   ],
+   "presse_total": 3,
+   "opportunites": [],
+   "deplacements": [],
+   "demandes_presse": [],
+   "dossier": {
+    "maj": "6 sept. 2026",
+    "iso": "2026-09-06",
+    "a_jour": true,
+    "nouveaux": 0,
+    "dernier_fait": "26 juin 2026"
+   }
+  },
+  {
+   "nom": "Binta Diaw",
+   "statut": "Représenté",
+   "url": "https://cecilefakhoury.com/artists/97-binta-diaw/overview/",
+   "img": "img/97-binta-diaw.jpg",
+   "ratio": 0.784,
+   "legende": "Paysage corporel XXI, 2025",
+   "oeuvre_url": "https://cecilefakhoury.com/artists/97-binta-diaw/works/7138-binta-diaw-paysage-corporel-xxi-2025/",
+   "lieux_galerie": [
+    "Dakar",
+    "Paris"
+   ],
+   "lieux_actu": [],
+   "lieux": [
+    "Dakar",
+    "Paris"
+   ],
+   "en_cours": [
+    {
+     "titre": "Blackground : murmures des mornes",
+     "lieu": "Capc Musée d’art contemporain de Bordeaux, Bordeaux, France",
+     "periode": "13 juin 2026 – 28 févr. 2027",
+     "debut": "2026-06-13",
+     "fin": "2027-02-28",
+     "type": "Exposition",
+     "etat": "en_cours",
+     "url": "https://cecilefakhoury.com/events/515/",
+     "source": "Site de la galerie, rubrique Actualités"
+    },
+    {
+     "titre": "Arbres, nuages et autres corps",
+     "lieu": "Maison Louis Carré, Bazoches-sur-Guyonne, France",
+     "periode": "27 sept. – 29 nov. 2026",
+     "debut": "2026-09-27",
+     "fin": "2026-11-29",
+     "type": "Exposition",
+     "etat": "en_cours",
+     "url": "https://cecilefakhoury.com/events/534/",
+     "source": "Site de la galerie, rubrique Actualités"
+    }
+   ],
+   "a_venir": [],
+   "recentes": [
+    {
+     "titre": "Soil Art Tales. Living Ecosystems for Shared Futures",
+     "lieu": "Posavje museum Brežice",
+     "periode": "10 sept. – 18 oct. 2026",
+     "debut": "2026-09-10",
+     "fin": "2026-10-18",
+     "type": "Exposition",
+     "etat": "passe",
+     "url": "https://cecilefakhoury.com/events/541/",
+     "source": "Site de la galerie, rubrique Actualités"
+    },
+    {
+     "titre": "THE SIGH OF THE MOUNTAIN - On Echoes and Traces in Our Landscapes",
+     "lieu": "Haus für Kunst Uri, Altdorf, Suisse",
+     "periode": "30 mai – 30 août 2026",
+     "debut": "2026-05-30",
+     "fin": "2026-08-30",
+     "type": "Exposition",
+     "etat": "passe",
+     "url": "https://cecilefakhoury.com/events/514/",
+     "source": "Site de la galerie, rubrique Actualités"
+    },
+    {
+     "titre": "See You Tomorrow Under Other Skies",
+     "lieu": "Andrew Kreps Gallery, New York, États-Unis",
+     "periode": "26 juin – 7 août 2026",
+     "debut": "2026-06-26",
+     "fin": "2026-08-07",
+     "type": "Exposition",
+     "etat": "passe",
+     "url": "https://cecilefakhoury.com/events/516/",
+     "source": "Site de la galerie, rubrique Actualités"
+    }
+   ],
+   "presse": [
+    {
+     "titre": "“Blackground : murmures des mornes” : à Bordeaux, une exposition interroge l’histoire coloniale",
+     "media": "Télérama",
+     "date": "1 sept. 2026",
+     "iso": "2026-09-01",
+     "url": "https://www.telerama.fr/arts-expositions/blackground-murmures-des-mornes-a-bordeaux-une-exposition-interroge-l-histoire-coloniale_cri-7045646.php",
+     "source": "Site de la galerie, rubrique Presse"
+    },
+    {
+     "titre": "Binta Diaw: intervista all'artista che ha vinto il Premio Cà del Bosco 2026 dedicato alle grandi sculture da esterni realizzate da artisti italiani Under 40",
+     "media": "Vogue Italia",
+     "date": "20 juin 2026",
+     "iso": "2026-06-20",
+     "url": "https://www.vogue.it/article/binta-diaw-premio-ca-del-bosco-2026-intervista",
+     "source": "Site de la galerie, rubrique Presse"
+    },
+    {
+     "titre": "« Comprendre comment cette violence historique influence le présent » : l’esclavage au cœur de l’exposition « Blackground » à Bordeaux",
+     "media": "Sud Ouest",
+     "date": "16 juin 2026",
+     "iso": "2026-06-16",
+     "url": "https://www.sudouest.fr/gironde/bordeaux/comprendre-comment-cette-violence-historique-influence-le-present-l-esclavage-au-coeur-de-l-exposition-blackground-a-bordeaux-29483707.php?csnt=19ee03feb40",
+     "source": "Site de la galerie, rubrique Presse"
+    }
+   ],
+   "presse_total": 3,
+   "opportunites": [
+    {
+     "nom": "Mensch Maschine VISIT Residency Programme 2027 · Energy Ghosts",
+     "type": "Résidence",
+     "pays": "Allemagne",
+     "limite": "1 déc. 2026",
+     "iso": "2026-12-01",
+     "jours": 14,
+     "pourquoi": "Écologie et matière au cœur de son travail.",
+     "contenu": "Quatre bourses entièrement financées en 2027.",
+     "url": "https://kyekyekule.com/opportunities/all"
+    }
+   ],
+   "deplacements": [
+    {
+     "titre": "Paysage corporel XXI",
+     "de": "Paris, réserve",
+     "vers": "Dakar, collectionneur",
+     "statut": "Devis demandés",
+     "depart": "7 déc. 2026",
+     "arrivee": "18 déc. 2026",
+     "motif": "Collectionneur"
+    }
+   ],
+   "demandes_presse": [],
+   "dossier": {
+    "maj": "24 mars 2026",
+    "iso": "2026-03-24",
+    "a_jour": false,
+    "nouveaux": 9,
+    "dernier_fait": "27 sept. 2026"
+   }
+  },
+  {
+   "nom": "Adji Dieye",
+   "statut": "Représenté",
+   "url": "https://cecilefakhoury.com/artists/98-adji-dieye/overview/",
+   "img": "img/98-adji-dieye.jpg",
+   "ratio": 0.73,
+   "legende": "63, 2024",
+   "oeuvre_url": "https://cecilefakhoury.com/artists/98-adji-dieye/works/6835-adji-dieye-63-2024/",
+   "lieux_galerie": [
+    "Abidjan",
+    "Dakar"
+   ],
+   "lieux_actu": [],
+   "lieux": [
+    "Abidjan",
+    "Dakar"
+   ],
+   "en_cours": [
+    {
+     "titre": "The Other Side of the Mountain",
+     "lieu": "Amos Rex, Helsinki, Finlande",
+     "periode": "14 oct. 2026 – 21 mars 2027",
+     "debut": "2026-10-14",
+     "fin": "2027-03-21",
+     "type": "Exposition",
+     "etat": "en_cours",
+     "url": "https://cecilefakhoury.com/events/528/",
+     "source": "Site de la galerie, rubrique Actualités"
+    },
+    {
+     "titre": "MAXXI Bvlgari Prize 2026",
+     "lieu": "MAXXI, Museo nazionale delle arti del XXI secolo, Rome, Italie",
+     "periode": "6 nov. 2026 – 7 mars 2027",
+     "debut": "2026-11-06",
+     "fin": "2027-03-07",
+     "type": "Prix",
+     "etat": "en_cours",
+     "url": "https://cecilefakhoury.com/events/543/",
+     "source": "Site de la galerie, rubrique Actualités"
+    }
+   ],
+   "a_venir": [],
+   "recentes": [
+    {
+     "titre": "Continente Arte",
+     "lieu": "Fondazione Sandretto Re Rebaudengo, Turin, Italie",
+     "periode": "10 sept. – 11 oct. 2026",
+     "debut": "2026-09-10",
+     "fin": "2026-10-11",
+     "type": "Exposition",
+     "etat": "passe",
+     "url": "https://cecilefakhoury.com/events/530/",
+     "source": "Site de la galerie, rubrique Actualités"
+    }
+   ],
+   "presse": [
+    {
+     "titre": "Interview : Adji Dieye by Gameli Hamelo",
+     "media": "Bomb Magazine",
+     "date": "7 oct. 2026",
+     "iso": "2026-10-07",
+     "url": "https://bombmagazine.org/articles/2026/10/07/adji-dieye-by-gameli-hamelo/",
+     "source": "Site de la galerie, rubrique Presse"
+    },
+    {
+     "titre": "Biennale de la Photographie de Mulhouse 2026 : La Filature : Settled",
+     "media": "L'Oeil De La Photographie",
+     "date": "3 juil. 2026",
+     "iso": "2026-07-03",
+     "url": "https://loeildelaphotographie.com/fr/biennale-de-la-photographie-de-mulhouse-2026-la-filature-settled/",
+     "source": "Site de la galerie, rubrique Presse"
+    }
+   ],
+   "presse_total": 2,
+   "opportunites": [
+    {
+     "nom": "Taichung Art Museum Artist-in-Residence 2027",
+     "type": "Résidence",
+     "pays": "Taïwan",
+     "limite": "30 nov. 2026",
+     "iso": "2026-11-30",
+     "jours": 13,
+     "pourquoi": "Travail sur les archives et les institutions.",
+     "contenu": "Résidence entre avril et septembre 2027 ; thème musée et bibliothèque.",
+     "url": "https://kyekyekule.com/opportunities/all"
+    }
+   ],
+   "deplacements": [],
+   "demandes_presse": [],
+   "dossier": {
+    "maj": "16 avr. 2026",
+    "iso": "2026-04-16",
+    "a_jour": false,
+    "nouveaux": 6,
+    "dernier_fait": "6 nov. 2026"
+   }
+  },
+  {
+   "nom": "Serigne Ibrahima Dieye",
+   "statut": "Représenté",
+   "url": "https://cecilefakhoury.com/artists/serigne-ibrahima-dieye/overview/",
+   "img": "img/serigne-ibrahima-dieye.jpg",
+   "ratio": 1.0,
+   "legende": "",
+   "oeuvre_url": "https://cecilefakhoury.com/artists/serigne-ibrahima-dieye/overview/",
+   "lieux_galerie": [],
+   "lieux_actu": [
+    "Dakar"
+   ],
+   "lieux": [
+    "Dakar"
+   ],
+   "en_cours": [],
+   "a_venir": [
+    {
+     "titre": "16e édition de la Biennale de Dakar : (anti)fragilité : arts de la réparation et stratégies du contrecoup",
+     "lieu": "",
+     "periode": "19 nov. – 19 déc. 2026",
+     "debut": "2026-11-19",
+     "fin": "2026-12-19",
+     "type": "Exposition",
+     "etat": "a_venir",
+     "url": "https://cecilefakhoury.com/events/537/",
+     "source": "Site de la galerie, rubrique Actualités"
+    }
+   ],
+   "recentes": [],
+   "presse": [],
+   "presse_total": 0,
+   "opportunites": [
+    {
+     "nom": "The R2 Space · Rele Arts Foundation Residency",
+     "type": "Résidence",
+     "pays": "Nigeria",
+     "limite": "Ouvert en continu",
+     "iso": "",
+     "jours": null,
+     "pourquoi": "Artiste africain à mi-carrière, critère de la résidence.",
+     "contenu": "1 à 3 mois ; appel ouvert de janvier à décembre.",
+     "url": "https://www.releartsfoundation.org/r2-residency-program"
+    }
+   ],
+   "deplacements": [
+    {
+     "titre": "La soif de pouvoir #1",
+     "de": "Dakar",
+     "vers": "Biennale · Exposition internationale",
+     "statut": "Départ prévu",
+     "depart": "9 nov. 2026",
+     "arrivee": "",
+     "motif": "Exposition"
+    }
+   ],
+   "demandes_presse": [],
+   "dossier": {
+    "maj": "3 juil. 2026",
+    "iso": "2026-07-03",
+    "a_jour": true,
+    "nouveaux": 0,
+    "dernier_fait": ""
+   }
+  },
+  {
+   "nom": "Dimitri Fagbohoun",
+   "statut": "Représenté",
+   "url": "https://cecilefakhoury.com/artists/28-dimitri-fagbohoun/overview/",
+   "img": "img/28-dimitri-fagbohoun.jpg",
+   "ratio": 0.798,
+   "legende": "Rockafella, Série Microcosmos II, 2018",
+   "oeuvre_url": "https://cecilefakhoury.com/artists/28-dimitri-fagbohoun/works/206-dimitri-fagbohoun-rockafella-serie-microcosmos-ii-2018/",
+   "lieux_galerie": [],
+   "lieux_actu": [],
+   "lieux": [],
+   "en_cours": [],
+   "a_venir": [],
+   "recentes": [
+    {
+     "titre": "Africa Legacy",
+     "lieu": "Espace Vanderborght, Bruxelles, Belgique",
+     "periode": "4 sept. – 1 nov. 2026",
+     "debut": "2026-09-04",
+     "fin": "2026-11-01",
+     "type": "Exposition",
+     "etat": "passe",
+     "url": "https://cecilefakhoury.com/events/525/",
+     "source": "Site de la galerie, rubrique Actualités"
+    }
+   ],
+   "presse": [],
+   "presse_total": 0,
+   "opportunites": [],
+   "deplacements": [],
+   "demandes_presse": [],
+   "dossier": {
+    "maj": "28 mars 2026",
+    "iso": "2026-03-28",
+    "a_jour": false,
+    "nouveaux": 1,
+    "dernier_fait": "4 sept. 2026"
+   }
+  },
+  {
+   "nom": "François-Xavier Gbré",
+   "statut": "Représenté",
+   "url": "https://cecilefakhoury.com/artists/30-francois-xavier-gbre/overview/",
+   "img": "img/30-francois-xavier-gbre.jpg",
+   "ratio": 0.75,
+   "legende": "Providence #5, 2024",
+   "oeuvre_url": "https://cecilefakhoury.com/artists/30-francois-xavier-gbre/works/6265-francois-xavier-gbre-providence-5-2024/",
+   "lieux_galerie": [
+    "Abidjan",
+    "Paris"
+   ],
+   "lieux_actu": [
+    "Paris"
+   ],
+   "lieux": [
+    "Abidjan",
+    "Paris"
+   ],
+   "en_cours": [
+    {
+     "titre": "Architects of Liberation: Modernism in Western Africa",
+     "lieu": "MoMA",
+     "periode": "5 juil. 2026 – 2 janv. 2027",
+     "debut": "2026-07-05",
+     "fin": "2027-01-02",
+     "type": "Exposition",
+     "etat": "en_cours",
+     "url": "https://cecilefakhoury.com/events/497/",
+     "source": "Site de la galerie, rubrique Actualités"
+    }
+   ],
+   "a_venir": [
+    {
+     "titre": "Paris noir traversées, détours, retours",
+     "lieu": "FONDATION CLÉMENT, Martinique",
+     "periode": "12 déc. 2026 – 14 mars 2027",
+     "debut": "2026-12-12",
+     "fin": "2027-03-14",
+     "type": "Exposition",
+     "etat": "a_venir",
+     "url": "https://cecilefakhoury.com/events/551/",
+     "source": "Site de la galerie, rubrique Actualités"
+    }
+   ],
+   "recentes": [],
+   "presse": [],
+   "presse_total": 5,
+   "opportunites": [
+    {
+     "nom": "Smithsonian Artist Research Fellowship (SARF)",
+     "type": "Résidence",
+     "pays": "États-Unis",
+     "limite": "28 janv. 2027",
+     "iso": "2027-01-28",
+     "jours": 72,
+     "pourquoi": "Recherche sur archives et architecture ; déjà au MoMA.",
+     "contenu": "1 mois de recherche à Washington ; allocation de séjour et un aller-retour.",
+     "url": "https://fellowships.si.edu/opportunity/smithsonian-artist-research-fellowship-sarf"
+    }
+   ],
+   "deplacements": [
+    {
+     "titre": "Providence #5",
+     "de": "Abidjan, Project Space",
+     "vers": "Paris, institution (prêt)",
+     "statut": "En transit",
+     "depart": "16 nov. 2026",
+     "arrivee": "28 nov. 2026",
+     "motif": "Institution"
+    }
+   ],
+   "demandes_presse": [],
+   "dossier": {
+    "maj": "15 juil. 2026",
+    "iso": "2026-07-15",
+    "a_jour": true,
+    "nouveaux": 0,
+    "dernier_fait": "5 juil. 2026"
+   }
+  },
+  {
+   "nom": "Yo-Yo Gonthier",
+   "statut": "Représenté",
+   "url": "https://cecilefakhoury.com/artists/yo-yo-gonthier/overview/",
+   "img": "img/yo-yo-gonthier.jpg",
+   "ratio": 1.0,
+   "legende": "",
+   "oeuvre_url": "https://cecilefakhoury.com/artists/yo-yo-gonthier/overview/",
+   "lieux_galerie": [],
+   "lieux_actu": [],
+   "lieux": [],
+   "en_cours": [],
+   "a_venir": [],
+   "recentes": [
+    {
+     "titre": "Fresque : Une envolée",
+     "lieu": "",
+     "periode": "10 oct. 2026",
+     "debut": "2026-10-10",
+     "fin": "2026-10-10",
+     "type": "Rencontre",
+     "etat": "passe",
+     "url": "https://cecilefakhoury.com/events/545/",
+     "source": "Site de la galerie, rubrique Actualités"
+    }
+   ],
+   "presse": [
+    {
+     "titre": "Cazères. La Fresque de Yo-Yo Gonthier donne des ailes aux Capucins",
+     "media": "La Dépêche",
+     "date": "24 oct. 2026",
+     "iso": "2026-10-24",
+     "url": "https://www.ladepeche.fr/2026/10/24/la-fresque-de-yo-yo-gonthier-donne-des-ailes-aux-capucins-13618064.php",
+     "source": "Site de la galerie, rubrique Presse"
+    }
+   ],
+   "presse_total": 1,
+   "opportunites": [],
+   "deplacements": [],
+   "demandes_presse": [],
+   "dossier": {
+    "maj": "22 juil. 2026",
+    "iso": "2026-07-22",
+    "a_jour": false,
+    "nouveaux": 2,
+    "dernier_fait": "24 oct. 2026"
+   }
+  },
+  {
+   "nom": "Carl-Edouard Keïta",
+   "statut": "Représenté",
+   "url": "https://cecilefakhoury.com/artists/121-carl-edouard-keita/overview/",
+   "img": "img/121-carl-edouard-keita.jpg",
+   "ratio": 0.591,
+   "legende": "Bassori et Gonaté, 2026",
+   "oeuvre_url": "https://cecilefakhoury.com/artists/121-carl-edouard-keita/works/7616-carl-edouard-keita-bassori-et-gonate-2026/",
+   "lieux_galerie": [
+    "Abidjan",
+    "Dakar",
+    "Paris"
+   ],
+   "lieux_actu": [
+    "Paris"
+   ],
+   "lieux": [
+    "Abidjan",
+    "Dakar",
+    "Paris"
+   ],
+   "en_cours": [
+    {
+     "titre": "Résidence",
+     "lieu": "theMatter Art Project",
+     "periode": "5 oct. – 13 déc. 2026",
+     "debut": "2026-10-05",
+     "fin": "2026-12-13",
+     "type": "Résidence",
+     "etat": "en_cours",
+     "url": "https://cecilefakhoury.com/events/547/",
+     "source": "Site de la galerie, rubrique Actualités"
+    }
+   ],
+   "a_venir": [
+    {
+     "titre": "Paris noir traversées, détours, retours",
+     "lieu": "FONDATION CLÉMENT, Martinique",
+     "periode": "12 déc. 2026 – 14 mars 2027",
+     "debut": "2026-12-12",
+     "fin": "2027-03-14",
+     "type": "Exposition",
+     "etat": "a_venir",
+     "url": "https://cecilefakhoury.com/events/551/",
+     "source": "Site de la galerie, rubrique Actualités"
+    }
+   ],
+   "recentes": [
+    {
+     "titre": "Art Basel Paris 2026",
+     "lieu": "",
+     "periode": "21 oct. – 25 oct. 2026",
+     "debut": "2026-10-21",
+     "fin": "2026-10-25",
+     "type": "Exposition",
+     "etat": "passe",
+     "url": "https://cecilefakhoury.com/events/523/",
+     "source": "Site de la galerie, rubrique Actualités"
+    },
+    {
+     "titre": "Ivoire Cinéma",
+     "lieu": "Musée des Cultures Contemporaines Adama Toungara",
+     "periode": "28 mai – 27 sept. 2026",
+     "debut": "2026-05-28",
+     "fin": "2026-09-27",
+     "type": "Exposition",
+     "etat": "passe",
+     "url": "https://cecilefakhoury.com/events/502/",
+     "source": "Site de la galerie, rubrique Actualités"
+    }
+   ],
+   "presse": [
+    {
+     "titre": "Art Basel Paris: l’artiste ivoirien Carl-Edouard Keïta entre New York et Abidjan",
+     "media": "Rfi",
+     "date": "23 oct. 2026",
+     "iso": "2026-10-23",
+     "url": "https://www.rfi.fr/fr/culture/20261023-art-basel-paris-l-artiste-ivoirien-carl-édouard-keïta-entre-new-york-et-abidjan",
+     "source": "Site de la galerie, rubrique Presse"
+    },
+    {
+     "titre": "The Best Booths at Art Basel Paris, From Tar Paintings to a Falling Knife",
+     "media": "ARTnews",
+     "date": "22 oct. 2026",
+     "iso": "2026-10-22",
+     "url": "https://www.artnews.com/list/art-news/market/art-basel-paris-2026-best-booths-1234803335/miyoko-ito-at-ortuzar/",
+     "source": "Site de la galerie, rubrique Presse"
+    },
+    {
+     "titre": "Carl-Édouard Keïta, l’art comme seconde nature",
+     "media": "Art Basel",
+     "date": "22 sept. 2026",
+     "iso": "2026-09-22",
+     "url": "https://www.artbasel.com/stories/carl-edouard-keita-ivory-coast-new-york-artist-cecile-fakhoury-art-basel-paris-2026-1",
+     "source": "Site de la galerie, rubrique Presse"
+    }
+   ],
+   "presse_total": 4,
+   "opportunites": [],
+   "deplacements": [
+    {
+     "titre": "Ton pied, mon pied",
+     "de": "Paris, showroom",
+     "vers": "Abidjan, galerie",
+     "statut": "Devis reçus",
+     "depart": "1 déc. 2026",
+     "arrivee": "15 déc. 2026",
+     "motif": "Galerie"
+    },
+    {
+     "titre": "Massa et eau de moussa, 1988",
+     "de": "Foire, Paris",
+     "vers": "Showroom, Paris",
+     "statut": "En transit",
+     "depart": "",
+     "arrivee": "",
+     "motif": "Retour de foire"
+    }
+   ],
+   "demandes_presse": [],
+   "dossier": {
+    "maj": "16 oct. 2026",
+    "iso": "2026-10-16",
+    "a_jour": false,
+    "nouveaux": 3,
+    "dernier_fait": "23 oct. 2026"
+   }
+  },
+  {
+   "nom": "Jems Koko Bi",
+   "statut": "Représenté",
+   "url": "https://cecilefakhoury.com/artists/33-jems-koko-bi/overview/",
+   "img": "img/33-jems-koko-bi.jpg",
+   "ratio": 0.655,
+   "legende": "Le Lecteur, 2019",
+   "oeuvre_url": "https://cecilefakhoury.com/artists/33-jems-koko-bi/works/688-jems-koko-bi-le-lecteur-2019/",
+   "lieux_galerie": [
+    "Abidjan"
+   ],
+   "lieux_actu": [],
+   "lieux": [
+    "Abidjan"
+   ],
+   "en_cours": [],
+   "a_venir": [],
+   "recentes": [
+    {
+     "titre": "De l'autre côté de l'arbre",
+     "lieu": "Fondation Donwahi, Abidjan, Côte d'Ivoire",
+     "periode": "18 sept. 2026",
+     "debut": "2026-09-18",
+     "fin": "2026-09-18",
+     "type": "Exposition",
+     "etat": "passe",
+     "url": "https://cecilefakhoury.com/events/533/",
+     "source": "Site de la galerie, rubrique Actualités"
+    }
+   ],
+   "presse": [],
+   "presse_total": 0,
+   "opportunites": [
+    {
+     "nom": "G. & A. Mamidakis Art Prize 2027",
+     "type": "Prix",
+     "pays": "Grèce",
+     "limite": "30 déc. 2026",
+     "iso": "2026-12-30",
+     "jours": 43,
+     "pourquoi": "Sculpture en plein air, bois et nature.",
+     "contenu": "Œuvre installée à Agios Nikolaos (Crète), intégrée à la collection.",
+     "url": "https://gnamamidakisfoundation.org/en/vraveio-technis/"
+    }
+   ],
+   "deplacements": [],
+   "demandes_presse": [],
+   "dossier": {
+    "maj": "18 janv. 2026",
+    "iso": "2026-01-18",
+    "a_jour": false,
+    "nouveaux": 1,
+    "dernier_fait": "18 sept. 2026"
+   }
+  },
+  {
+   "nom": "Elladj Lincy Deloumeaux",
+   "statut": "Représenté",
+   "url": "https://cecilefakhoury.com/artists/94-elladj-lincy-deloumeaux/overview/",
+   "img": "img/94-elladj-lincy-deloumeaux.jpg",
+   "ratio": 0.803,
+   "legende": "Mémoire Tissée (Woven Memory), 2025",
+   "oeuvre_url": "https://cecilefakhoury.com/artists/94-elladj-lincy-deloumeaux/works/7226-elladj-lincy-deloumeaux-memoire-tissee-woven-memory-2025/",
+   "lieux_galerie": [
+    "Abidjan",
+    "Dakar",
+    "Paris"
+   ],
+   "lieux_actu": [],
+   "lieux": [
+    "Abidjan",
+    "Dakar",
+    "Paris"
+   ],
+   "en_cours": [],
+   "a_venir": [],
+   "recentes": [],
+   "presse": [],
+   "presse_total": 2,
+   "opportunites": [
+    {
+     "nom": "Résidences Darkoum 2027",
+     "type": "Résidence",
+     "pays": "Maroc",
+     "limite": "30 nov. 2026",
+     "iso": "2026-11-30",
+     "jours": 13,
+     "pourquoi": "Déjà exposé au Maroc en 2026 (Marrakech).",
+     "contenu": "Environ 1 mois, mars-décembre 2027, dans neuf villes marocaines.",
+     "url": "https://if-maroc.org/fes/projets/residences-darkoum-2027/"
+    }
+   ],
+   "deplacements": [],
+   "demandes_presse": [],
+   "dossier": {
+    "maj": "22 oct. 2026",
+    "iso": "2026-10-22",
+    "a_jour": true,
+    "nouveaux": 0,
+    "dernier_fait": "6 févr. 2026"
+   }
+  },
+  {
+   "nom": "Marie-Claire Messouma Manlanbien",
+   "statut": "Représenté",
+   "url": "https://cecilefakhoury.com/artists/116-marie-claire-messouma-manlanbien/overview/",
+   "img": "img/116-marie-claire-messouma-manlanbien.jpg",
+   "ratio": 1.21,
+   "legende": "Human intra natura, Nuit, 2024",
+   "oeuvre_url": "https://cecilefakhoury.com/artists/116-marie-claire-messouma-manlanbien/works/5292-marie-claire-messouma-manlanbien-human-intra-natura-nuit-2024/",
+   "lieux_galerie": [
+    "Abidjan",
+    "Dakar",
+    "Paris"
+   ],
+   "lieux_actu": [
+    "Paris"
+   ],
+   "lieux": [
+    "Abidjan",
+    "Dakar",
+    "Paris"
+   ],
+   "en_cours": [
+    {
+     "titre": "Creation Myths and Other Beginnings",
+     "lieu": "Nest (Ruimte voor kunst), La Haye, Pays-Bas",
+     "periode": "4 sept. – 29 nov. 2026",
+     "debut": "2026-09-04",
+     "fin": "2026-11-29",
+     "type": "Exposition",
+     "etat": "en_cours",
+     "url": "https://cecilefakhoury.com/events/546/",
+     "source": "Site de la galerie, rubrique Actualités"
+    },
+    {
+     "titre": "Les mues éternelles",
+     "lieu": "Frac Auvergne",
+     "periode": "25 sept. 2026 – 7 févr. 2027",
+     "debut": "2026-09-25",
+     "fin": "2027-02-07",
+     "type": "Exposition",
+     "etat": "en_cours",
+     "url": "https://cecilefakhoury.com/events/549/",
+     "source": "Site de la galerie, rubrique Actualités"
+    },
+    {
+     "titre": "Material Memories",
+     "lieu": "Museum van Bommel van Dam, Venlo, Pays-Bas",
+     "periode": "3 oct. 2026 – 7 mars 2027",
+     "debut": "2026-10-03",
+     "fin": "2027-03-07",
+     "type": "Exposition",
+     "etat": "en_cours",
+     "url": "https://cecilefakhoury.com/events/538/",
+     "source": "Site de la galerie, rubrique Actualités"
+    },
+    {
+     "titre": "Semons nos résistances",
+     "lieu": "MAIF Social Club, Paris, France",
+     "periode": "17 oct. 2026 – 24 juil. 2027",
+     "debut": "2026-10-17",
+     "fin": "2027-07-24",
+     "type": "Exposition",
+     "etat": "en_cours",
+     "url": "https://cecilefakhoury.com/events/532/",
+     "source": "Site de la galerie, rubrique Actualités"
+    }
+   ],
+   "a_venir": [],
+   "recentes": [
+    {
+     "titre": "(Dé)colonisations : des artistes africains interrogent l’histoire",
+     "lieu": "Mémorial de Caen , France",
+     "periode": "20 mai – 11 nov. 2026",
+     "debut": "2026-05-20",
+     "fin": "2026-11-11",
+     "type": "Exposition",
+     "etat": "passe",
+     "url": "https://cecilefakhoury.com/events/519/",
+     "source": "Site de la galerie, rubrique Actualités"
+    },
+    {
+     "titre": "Oracles au-delà des mers",
+     "lieu": "Villa Médicis",
+     "periode": "19 juin – 7 sept. 2026",
+     "debut": "2026-06-19",
+     "fin": "2026-09-07",
+     "type": "Exposition",
+     "etat": "passe",
+     "url": "https://cecilefakhoury.com/events/505/",
+     "source": "Site de la galerie, rubrique Actualités"
+    },
+    {
+     "titre": "Résidence",
+     "lieu": "Académie de France à Rome – Villa Médicis",
+     "periode": "1 sept. 2025 – 31 août 2026",
+     "debut": "2025-09-01",
+     "fin": "2026-08-31",
+     "type": "Résidence",
+     "etat": "passe",
+     "url": "https://cecilefakhoury.com/events/382/",
+     "source": "Site de la galerie, rubrique Actualités"
+    }
+   ],
+   "presse": [
+    {
+     "titre": "À Rome, une exposition de la Villa Médicis révèle seize façons d’habiter et de penser autrement le monde",
+     "media": "Numéro",
+     "date": "8 juil. 2026",
+     "iso": "2026-07-08",
+     "url": "https://numero.com/art/numero-art/villa-medicis-rome-exposition-pensionnaires/",
+     "source": "Site de la galerie, rubrique Presse"
+    }
+   ],
+   "presse_total": 1,
+   "opportunites": [
+    {
+     "nom": "TRACES Art&Science Residency 2027",
+     "type": "Résidence",
+     "pays": "Suisse",
+     "limite": "22 nov. 2026",
+     "iso": "2026-11-22",
+     "jours": 5,
+     "pourquoi": "Matières organiques, travail de la matière.",
+     "contenu": "Accès au laboratoire, atelier et production ; présentation publique.",
+     "url": "https://kyekyekule.com/opportunities/all"
+    },
+    {
+     "nom": "Art Basel 2027 · secteurs Unlimited, Parcours, Kabinett",
+     "type": "Appel à candidatures",
+     "pays": "Suisse",
+     "limite": "Date non publiée",
+     "iso": "",
+     "jours": null,
+     "pourquoi": "Installations textiles de grand format.",
+     "contenu": "Foire du 17 au 20 juin 2027 ; date limite non affichée sur la page.",
+     "url": "https://www.artbasel.com/about/application"
+    }
+   ],
+   "deplacements": [],
+   "demandes_presse": [],
+   "dossier": {
+    "maj": "22 mai 2026",
+    "iso": "2026-05-22",
+    "a_jour": false,
+    "nouveaux": 6,
+    "dernier_fait": "17 oct. 2026"
+   }
+  },
+  {
+   "nom": "Rachel Marsil",
+   "statut": "Représenté",
+   "url": "https://cecilefakhoury.com/artists/128-rachel-marsil/overview/",
+   "img": "img/128-rachel-marsil.jpg",
+   "ratio": 0.727,
+   "legende": "Sans titre, 2025",
+   "oeuvre_url": "https://cecilefakhoury.com/artists/128-rachel-marsil/works/6888-rachel-marsil-sans-titre-2025/",
+   "lieux_galerie": [
+    "Abidjan",
+    "Dakar",
+    "Paris"
+   ],
+   "lieux_actu": [
+    "Paris"
+   ],
+   "lieux": [
+    "Abidjan",
+    "Dakar",
+    "Paris"
+   ],
+   "en_cours": [
+    {
+     "titre": "Ndop – Filer le bleu pour raconter un monde",
+     "lieu": "Maison Gacha, Paris, France",
+     "periode": "21 oct. 2026 – 27 févr. 2027",
+     "debut": "2026-10-21",
+     "fin": "2027-02-27",
+     "type": "Exposition",
+     "etat": "en_cours",
+     "url": "https://cecilefakhoury.com/events/535/",
+     "source": "Site de la galerie, rubrique Actualités"
+    }
+   ],
+   "a_venir": [],
+   "recentes": [],
+   "presse": [],
+   "presse_total": 0,
+   "opportunites": [
+    {
+     "nom": "G.A.S. International Research & Creative Residency 2027-28",
+     "type": "Résidence",
+     "pays": "Nigeria",
+     "limite": "7 déc. 2026",
+     "iso": "2026-12-07",
+     "jours": 20,
+     "pourquoi": "Habituée des résidences africaines (Black Rock, Gacha).",
+     "contenu": "4 à 8 semaines, avril 2027-juillet 2028, Lagos ou Ikiṣẹ.",
+     "url": "https://www.guestartistsspace.com/News/open-call-gas-international-research-and-creative-residency-open-call-2027-28"
+    }
+   ],
+   "deplacements": [],
+   "demandes_presse": [],
+   "dossier": {
+    "maj": "3 juin 2026",
+    "iso": "2026-06-03",
+    "a_jour": false,
+    "nouveaux": 2,
+    "dernier_fait": "21 oct. 2026"
+   }
+  },
+  {
+   "nom": "Vincent Michéa",
+   "statut": "Représenté",
+   "url": "https://cecilefakhoury.com/artists/35-vincent-michea/overview/",
+   "img": "img/35-vincent-michea.jpg",
+   "ratio": 0.681,
+   "legende": "Le grand retour des copines #4, petites fleurs bleues, 2022",
+   "oeuvre_url": "https://cecilefakhoury.com/artists/35-vincent-michea/works/4368-vincent-michea-le-grand-retour-des-copines-4-petites-fleurs-2022/",
+   "lieux_galerie": [
+    "Abidjan",
+    "Dakar",
+    "Paris"
+   ],
+   "lieux_actu": [],
+   "lieux": [
+    "Abidjan",
+    "Dakar",
+    "Paris"
+   ],
+   "en_cours": [],
+   "a_venir": [],
+   "recentes": [],
+   "presse": [],
+   "presse_total": 0,
+   "opportunites": [],
+   "deplacements": [],
+   "demandes_presse": [],
+   "dossier": {
+    "maj": "24 mai 2026",
+    "iso": "2026-05-24",
+    "a_jour": true,
+    "nouveaux": 0,
+    "dernier_fait": "21 févr. 2026"
+   }
+  },
+  {
+   "nom": "Roméo Mivekannin",
+   "statut": "Représenté",
+   "url": "https://cecilefakhoury.com/artists/93-romeo-mivekannin/overview/",
+   "img": "img/93-romeo-mivekannin.jpg",
+   "ratio": 1.385,
+   "legende": "Cérémonie du pacte d'amitié (ou pacte du sang), d'après Frédéric Gadmer (1930), 2026",
+   "oeuvre_url": "https://cecilefakhoury.com/artists/93-romeo-mivekannin/works/7707-romeo-mivekannin-ceremonie-du-pacte-d-amitie-ou-pacte-du-sang-2026/",
+   "lieux_galerie": [
+    "Abidjan",
+    "Paris"
+   ],
+   "lieux_actu": [
+    "Abidjan"
+   ],
+   "lieux": [
+    "Abidjan",
+    "Paris"
+   ],
+   "en_cours": [
+    {
+     "titre": "Biennale textile : Vera Icona",
+     "lieu": "Église Notre-Dame-de-Prospérité",
+     "periode": "1 juil. 2026 – 10 janv. 2027",
+     "debut": "2026-07-01",
+     "fin": "2027-01-10",
+     "type": "Exposition",
+     "etat": "en_cours",
+     "url": "https://cecilefakhoury.com/events/503/",
+     "source": "Site de la galerie, rubrique Actualités"
+    },
+    {
+     "titre": "Dieu n’est pas obligé",
+     "lieu": "Galerie Cécile Fakhoury, Abidjan",
+     "periode": "5 nov. 2026 – 9 janv. 2027",
+     "debut": "2026-11-05",
+     "fin": "2027-01-09",
+     "type": "Exposition à la galerie",
+     "etat": "en_cours",
+     "url": "https://cecilefakhoury.com/exhibitions/130-dieu-nest-pas-oblige-romeo-mivekannin-abidjan/overview/",
+     "source": "Site de la galerie, rubrique Expositions"
+    },
+    {
+     "titre": "VIOLENCE SILENCIEUSE. Sous le regard de Roméo Mivekannin",
+     "lieu": "Musée de Quai Branly - Jacques Chirac",
+     "periode": "10 nov. 2026 – 4 avr. 2027",
+     "debut": "2026-11-10",
+     "fin": "2027-04-04",
+     "type": "Exposition",
+     "etat": "en_cours",
+     "url": "https://cecilefakhoury.com/events/520/",
+     "source": "Site de la galerie, rubrique Actualités"
+    }
+   ],
+   "a_venir": [
+    {
+     "titre": "An infinite woman, black archives in two acts",
+     "lieu": "Kanal - Centre Pompidou, Bruxelles",
+     "periode": "28 nov. 2026 – 26 avr. 2027",
+     "debut": "2026-11-28",
+     "fin": "2027-04-26",
+     "type": "Exposition",
+     "etat": "a_venir",
+     "url": "https://cecilefakhoury.com/events/521/",
+     "source": "Site de la galerie, rubrique Actualités"
+    }
+   ],
+   "recentes": [
+    {
+     "titre": "(Dé)colonisations : des artistes africains interrogent l’histoire",
+     "lieu": "Mémorial de Caen , France",
+     "periode": "20 mai – 11 nov. 2026",
+     "debut": "2026-05-20",
+     "fin": "2026-11-11",
+     "type": "Exposition",
+     "etat": "passe",
+     "url": "https://cecilefakhoury.com/events/519/",
+     "source": "Site de la galerie, rubrique Actualités"
+    },
+    {
+     "titre": "Africa Legacy",
+     "lieu": "Espace Vanderborght, Bruxelles, Belgique",
+     "periode": "4 sept. – 1 nov. 2026",
+     "debut": "2026-09-04",
+     "fin": "2026-11-01",
+     "type": "Exposition",
+     "etat": "passe",
+     "url": "https://cecilefakhoury.com/events/525/",
+     "source": "Site de la galerie, rubrique Actualités"
+    },
+    {
+     "titre": "Installation : Fahatsiarovana",
+     "lieu": "Aéroport International d’Antananarivo, Madagascar",
+     "periode": "5 juin – 31 oct. 2026",
+     "debut": "2026-06-05",
+     "fin": "2026-10-31",
+     "type": "Exposition",
+     "etat": "passe",
+     "url": "https://cecilefakhoury.com/events/506/",
+     "source": "Site de la galerie, rubrique Actualités"
+    },
+    {
+     "titre": "Heritage & Family Archives",
+     "lieu": "New Culture Studios, Ibadan, Nigeria",
+     "periode": "27 sept. 2026",
+     "debut": "2026-09-27",
+     "fin": "2026-09-27",
+     "type": "Rencontre",
+     "etat": "passe",
+     "url": "https://cecilefakhoury.com/events/522/",
+     "source": "Site de la galerie, rubrique Actualités"
+    },
+    {
+     "titre": "La vie climatique. Histoires sensibles des collections privées - Triennale De leur temps #8",
+     "lieu": "Musée d'Art Contemporain [",
+     "periode": "4 avr. – 20 sept. 2026",
+     "debut": "2026-04-04",
+     "fin": "2026-09-20",
+     "type": "Exposition",
+     "etat": "passe",
+     "url": "https://cecilefakhoury.com/events/487/",
+     "source": "Site de la galerie, rubrique Actualités"
+    },
+    {
+     "titre": "Aux origines. Regards croisés sur le racisme",
+     "lieu": "Palais de la Porte Dorée",
+     "periode": "5 juin – 23 août 2026",
+     "debut": "2026-06-05",
+     "fin": "2026-08-23",
+     "type": "Exposition",
+     "etat": "passe",
+     "url": "https://cecilefakhoury.com/events/510/",
+     "source": "Site de la galerie, rubrique Actualités"
+    }
+   ],
+   "presse": [
+    {
+     "titre": "Cultures africaines: les rendez-vous indispensables en novembre 2026",
+     "media": "Rfi",
+     "date": "4 nov. 2026",
+     "iso": "2026-11-04",
+     "url": "https://www.rfi.fr/fr/afrique/20261104-cultures-africaines-les-rendez-vous-indispensables-en-novembre-2026",
+     "source": "Site de la galerie, rubrique Presse"
+    },
+    {
+     "titre": "Paris. Au quai Branly, Roméo Mivekannin retourne contre nous les images des zoos humains",
+     "media": "Unidivers",
+     "date": "20 oct. 2026",
+     "iso": "2026-10-20",
+     "url": "https://unidivers.fr/paris-romeo-mivekannin-images-zoos-humains/",
+     "source": "Site de la galerie, rubrique Presse"
+    },
+    {
+     "titre": "D’où viennent nos préjugés ? “Aux origines”, l’expo qui déjoue les clichés du racisme",
+     "media": "Télérama",
+     "date": "8 août 2026",
+     "iso": "2026-08-08",
+     "url": "https://www.telerama.fr/arts-expositions/d-ou-viennent-nos-prejuges-aux-origines-l-expo-qui-dejoue-les-cliches-du-racisme-7032364.php",
+     "source": "Site de la galerie, rubrique Presse"
+    },
+    {
+     "titre": "Le Radeau de la Méduse revu par Roméo Mivekannin",
+     "media": "Afrique Xxi",
+     "date": "7 août 2026",
+     "iso": "2026-08-07",
+     "url": "https://afriquexxi.info/Le-Radeau-de-la-Meduse-revu-par-Romeo-Mivekannin",
+     "source": "Site de la galerie, rubrique Presse"
+    },
+    {
+     "titre": "Explorer d’autres récits de la colonisation lors d’une exposition au Mémorial de Caen",
+     "media": "Ouest-France",
+     "date": "25 juil. 2026",
+     "iso": "2026-07-25",
+     "url": "https://www.ouest-france.fr/culture/arts/expositions/explorer-dautres-recits-de-la-colonisation-lors-dune-exposition-au-memorial-de-caen-a3e64678-4722-11f1-8cf0-8f7da57c611b",
+     "source": "Site de la galerie, rubrique Presse"
+    },
+    {
+     "titre": "Contre les discriminations raciales, le combat et la sensibilité des artistes s’affichent au palais de la Porte Dorée",
+     "media": "Télérama",
+     "date": "22 juil. 2026",
+     "iso": "2026-07-22",
+     "url": "https://www.telerama.fr/arts-expositions/contre-les-discriminations-raciales-le-combat-et-la-sensibilite-des-artistes-s-affichent-au-palais-de-la-porte-doree_cri-7045233.php",
+     "source": "Site de la galerie, rubrique Presse"
+    }
+   ],
+   "presse_total": 6,
+   "opportunites": [],
+   "deplacements": [],
+   "demandes_presse": [
+    {
+     "objet": "Visite presse",
+     "media": "Quotidien culturel A",
+     "echeance": "13 nov. 2026",
+     "jours": -4,
+     "statut": "En cours"
+    },
+    {
+     "objet": "Entretien radio",
+     "media": "Radio culturelle A",
+     "echeance": "20 nov. 2026",
+     "jours": 3,
+     "statut": "Nouvelle"
+    },
+    {
+     "objet": "Dossier de presse (Kanal, Bruxelles)",
+     "media": "Quotidien culturel E",
+     "echeance": "25 nov. 2026",
+     "jours": 8,
+     "statut": "Nouvelle"
+    }
+   ],
+   "dossier": {
+    "maj": "17 nov. 2026",
+    "iso": "2026-11-17",
+    "a_jour": true,
+    "nouveaux": 0,
+    "dernier_fait": "10 nov. 2026"
+   }
+  },
+  {
+   "nom": "Cheikh Ndiaye",
+   "statut": "Représenté",
+   "url": "https://cecilefakhoury.com/artists/34-cheikh-ndiaye/overview/",
+   "img": "img/34-cheikh-ndiaye.jpg",
+   "ratio": 0.802,
+   "legende": "Cinéma Unité 3, Parcelles Assainies, Dakar, 2024",
+   "oeuvre_url": "https://cecilefakhoury.com/artists/34-cheikh-ndiaye/works/6232-cheikh-ndiaye-cinema-unite-3-parcelles-assainies-dakar-2024/",
+   "lieux_galerie": [
+    "Abidjan",
+    "Paris"
+   ],
+   "lieux_actu": [
+    "Dakar"
+   ],
+   "lieux": [
+    "Abidjan",
+    "Dakar",
+    "Paris"
+   ],
+   "en_cours": [],
+   "a_venir": [
+    {
+     "titre": "16e édition de la Biennale de Dakar : (anti)fragilité : arts de la réparation et stratégies du contrecoup",
+     "lieu": "",
+     "periode": "19 nov. – 19 déc. 2026",
+     "debut": "2026-11-19",
+     "fin": "2026-12-19",
+     "type": "Exposition",
+     "etat": "a_venir",
+     "url": "https://cecilefakhoury.com/events/537/",
+     "source": "Site de la galerie, rubrique Actualités"
+    }
+   ],
+   "recentes": [
+    {
+     "titre": "(Dé)colonisations : des artistes africains interrogent l’histoire",
+     "lieu": "Mémorial de Caen , France",
+     "periode": "20 mai – 11 nov. 2026",
+     "debut": "2026-05-20",
+     "fin": "2026-11-11",
+     "type": "Exposition",
+     "etat": "passe",
+     "url": "https://cecilefakhoury.com/events/519/",
+     "source": "Site de la galerie, rubrique Actualités"
+    },
+    {
+     "titre": "Reinventing Landscape",
+     "lieu": "Centre Pompidou x West Bund Museum Project Shanghai",
+     "periode": "28 avr. 2025 – 18 oct. 2026",
+     "debut": "2025-04-28",
+     "fin": "2026-10-18",
+     "type": "Exposition",
+     "etat": "passe",
+     "url": "https://cecilefakhoury.com/events/386/",
+     "source": "Site de la galerie, rubrique Actualités"
+    }
+   ],
+   "presse": [],
+   "presse_total": 0,
+   "opportunites": [
+    {
+     "nom": "Pollock-Krasner Foundation Grant",
+     "type": "Prix",
+     "pays": "États-Unis",
+     "limite": "Ouvert en continu",
+     "iso": "",
+     "jours": null,
+     "pourquoi": "Peintre, nombreuses expositions, présent à Dak'Art.",
+     "contenu": "Jusqu'à 50 000 $, le plus souvent 35 000 $ ; usage libre, sur un an.",
+     "url": "https://pkf.org/apply/"
+    }
+   ],
+   "deplacements": [
+    {
+     "titre": "Le Ritz, Saint-Denis, La Réunion",
+     "de": "Dakar, Biennale",
+     "vers": "Abidjan, galerie",
+     "statut": "Devis demandés",
+     "depart": "21 déc. 2026",
+     "arrivee": "15 janv. 2027",
+     "motif": "Galerie"
+    }
+   ],
+   "demandes_presse": [],
+   "dossier": {
+    "maj": "7 juin 2026",
+    "iso": "2026-06-07",
+    "a_jour": true,
+    "nouveaux": 0,
+    "dernier_fait": "20 mai 2026"
+   }
+  },
+  {
+   "nom": "Sadikou Oukpedjo",
+   "statut": "Représenté",
+   "url": "https://cecilefakhoury.com/artists/38-sadikou-oukpedjo/overview/",
+   "img": "img/38-sadikou-oukpedjo.jpg",
+   "ratio": 0.483,
+   "legende": "Libéré des dieux, 2022",
+   "oeuvre_url": "https://cecilefakhoury.com/artists/38-sadikou-oukpedjo/works/4281-sadikou-oukpedjo-libere-des-dieux-2022/",
+   "lieux_galerie": [
+    "Abidjan",
+    "Paris"
+   ],
+   "lieux_actu": [],
+   "lieux": [
+    "Abidjan",
+    "Paris"
+   ],
+   "en_cours": [],
+   "a_venir": [],
+   "recentes": [
+    {
+     "titre": "Exposition à quatre artistes africains, galerie Louie",
+     "lieu": "Strenquels (Lot), France",
+     "periode": "24 août 2026",
+     "debut": "",
+     "fin": "2026-08-24",
+     "type": "Exposition",
+     "etat": "passe",
+     "url": "https://www.ladepeche.fr/2026/08/07/quatre-artistes-reconnus-dans-le-monde-entier-exposent-13500091.php",
+     "source": "Veille du matin, relevé du 17/11/2026"
+    }
+   ],
+   "presse": [
+    {
+     "titre": "tooTogo : portrait « le maître togolais des formes et des mythes »",
+     "media": "",
+     "date": "18 sept. 2026",
+     "iso": "2026-09-18",
+     "url": "https://too-togo.com/dossiers/2026/09/18/sadikou-oukpedjo-maitre-togolais-formes-mythes",
+     "source": "Veille du matin, relevé du 17/11/2026"
+    },
+    {
+     "titre": "Quatre artistes reconnus dans le monde entier exposent à Strenquels",
+     "media": "La Dépêche",
+     "date": "7 août 2026",
+     "iso": "2026-08-07",
+     "url": "https://www.ladepeche.fr/2026/08/07/quatre-artistes-reconnus-dans-le-monde-entier-exposent-13500091.php",
+     "source": "Site de la galerie, rubrique Presse"
+    }
+   ],
+   "presse_total": 3,
+   "opportunites": [],
+   "deplacements": [],
+   "demandes_presse": [],
+   "dossier": {
+    "maj": "28 juin 2026",
+    "iso": "2026-06-28",
+    "a_jour": false,
+    "nouveaux": 3,
+    "dernier_fait": "18 sept. 2026"
+   }
+  },
+  {
+   "nom": "Kassou Seydou",
+   "statut": "Représenté",
+   "url": "https://cecilefakhoury.com/artists/36-kassou-seydou/overview/",
+   "img": "img/36-kassou-seydou.jpg",
+   "ratio": 1.425,
+   "legende": "Les arrières petits-fils de Aguiene et Djambol, 2021",
+   "oeuvre_url": "https://cecilefakhoury.com/artists/36-kassou-seydou/works/3451-kassou-seydou-les-arrieres-petits-fils-de-aguiene-et-djambol-2021/",
+   "lieux_galerie": [
+    "Dakar",
+    "Paris"
+   ],
+   "lieux_actu": [
+    "Dakar"
+   ],
+   "lieux": [
+    "Dakar",
+    "Paris"
+   ],
+   "en_cours": [],
+   "a_venir": [
+    {
+     "titre": "Lu Nëbtu",
+     "lieu": "Sokhamon, Dakar, Sénégal",
+     "periode": "19 nov. – 19 déc. 2026",
+     "debut": "2026-11-19",
+     "fin": "2026-12-19",
+     "type": "Exposition",
+     "etat": "a_venir",
+     "url": "https://cecilefakhoury.com/events/548/",
+     "source": "Site de la galerie, rubrique Actualités"
+    }
+   ],
+   "recentes": [],
+   "presse": [],
+   "presse_total": 0,
+   "opportunites": [],
+   "deplacements": [],
+   "demandes_presse": [
+    {
+     "objet": "Dossier de presse",
+     "media": "Quotidien culturel B",
+     "echeance": "18 nov. 2026",
+     "jours": 1,
+     "statut": "En cours"
+    },
+    {
+     "objet": "Visuels HD (Biennale)",
+     "media": "Revue d’art en ligne A",
+     "echeance": "19 nov. 2026",
+     "jours": 2,
+     "statut": "Nouvelle"
+    }
+   ],
+   "dossier": {
+    "maj": "3 nov. 2026",
+    "iso": "2026-11-03",
+    "a_jour": true,
+    "nouveaux": 0,
+    "dernier_fait": ""
+   }
+  },
+  {
+   "nom": "Bamouin Sinzé",
+   "statut": "Représenté",
+   "url": "https://cecilefakhoury.com/artists/54-bamouin-sinze/overview/",
+   "img": "img/54-bamouin-sinze.jpg",
+   "ratio": 0.933,
+   "legende": "",
+   "oeuvre_url": "https://cecilefakhoury.com/artists/54-bamouin-sinze/overview/",
+   "lieux_galerie": [],
+   "lieux_actu": [],
+   "lieux": [],
+   "en_cours": [],
+   "a_venir": [],
+   "recentes": [],
+   "presse": [],
+   "presse_total": 0,
+   "opportunites": [],
+   "deplacements": [],
+   "demandes_presse": [],
+   "dossier": {
+    "maj": "10 mars 2026",
+    "iso": "2026-03-10",
+    "a_jour": true,
+    "nouveaux": 0,
+    "dernier_fait": ""
+   }
+  },
+  {
+   "nom": "Ouattara Watts",
+   "statut": "Représenté",
+   "url": "https://cecilefakhoury.com/artists/37-ouattara-watts/overview/",
+   "img": "img/37-ouattara-watts.jpg",
+   "ratio": 1.325,
+   "legende": "Nomade #9, 2026",
+   "oeuvre_url": "https://cecilefakhoury.com/artists/37-ouattara-watts/works/7520-ouattara-watts-nomade-9-2026/",
+   "lieux_galerie": [
+    "Abidjan",
+    "Paris"
+   ],
+   "lieux_actu": [],
+   "lieux": [
+    "Abidjan",
+    "Paris"
+   ],
+   "en_cours": [
+    {
+     "titre": "Exposition personnelle « New Paintings » chez Karma",
+     "lieu": "Karma, New York, États-Unis",
+     "periode": "5 nov. – 19 déc. 2026",
+     "debut": "2026-11-05",
+     "fin": "2026-12-19",
+     "type": "Exposition",
+     "etat": "en_cours",
+     "url": "https://artdaily.com/v2/News/201925/Ouattara-Watts-blends-textiles,-global-iconography,-and-jazz-improvisation-in-new-exhibition-at-Karma",
+     "source": "Veille du matin, relevé du 17/11/2026"
+    }
+   ],
+   "a_venir": [],
+   "recentes": [
+    {
+     "titre": "(Dé)colonisations : des artistes africains interrogent l’histoire",
+     "lieu": "Mémorial de Caen , France",
+     "periode": "20 mai – 11 nov. 2026",
+     "debut": "2026-05-20",
+     "fin": "2026-11-11",
+     "type": "Exposition",
+     "etat": "passe",
+     "url": "https://cecilefakhoury.com/events/519/",
+     "source": "Site de la galerie, rubrique Actualités"
+    },
+    {
+     "titre": "Africa Legacy",
+     "lieu": "Espace Vanderborght, Bruxelles, Belgique",
+     "periode": "4 sept. – 1 nov. 2026",
+     "debut": "2026-09-04",
+     "fin": "2026-11-01",
+     "type": "Exposition",
+     "etat": "passe",
+     "url": "https://cecilefakhoury.com/events/525/",
+     "source": "Site de la galerie, rubrique Actualités"
+    }
+   ],
+   "presse": [
+    {
+     "titre": "Ouattar Watts à Abidjan 2026 - Sur le pont des Arts",
+     "media": "Rfi",
+     "date": "20 mai 2026",
+     "iso": "2026-05-20",
+     "url": "https://www.rfi.fr/fr/podcasts/sur-le-pont-des-arts/20260520-calder-rêver-en-équilibre-la-fondation-vuitton-célèbre-l-oeuvre-prolifique-du-sculpteur-bricoleur",
+     "source": "Site de la galerie, rubrique Presse"
+    }
+   ],
+   "presse_total": 3,
+   "opportunites": [
+    {
+     "nom": "500 Capp Street International Artist Exhibition 2027",
+     "type": "Appel à candidatures",
+     "pays": "États-Unis",
+     "limite": "31 déc. 2026",
+     "iso": "2026-12-31",
+     "jours": 44,
+     "pourquoi": "Déjà exposé aux États-Unis (Karma, New York).",
+     "contenu": "Exposition et programme public, juillet-septembre 2027, San Francisco.",
+     "url": "https://500cappstreet.org/"
+    }
+   ],
+   "deplacements": [
+    {
+     "titre": "Nomade #9",
+     "de": "Abidjan, réserve",
+     "vers": "Paris, collectionneur",
+     "statut": "Proposition envoyée",
+     "depart": "20 nov. 2026",
+     "arrivee": "4 déc. 2026",
+     "motif": "Collectionneur"
+    }
+   ],
+   "demandes_presse": [],
+   "dossier": {
+    "maj": "2 avr. 2026",
+    "iso": "2026-04-02",
+    "a_jour": false,
+    "nouveaux": 7,
+    "dernier_fait": "5 nov. 2026"
+   }
+  },
+  {
+   "nom": "Eva Diallo",
+   "statut": "Collaboration",
+   "url": "https://cecilefakhoury.com/artists/129-eva-diallo/overview/",
+   "img": "img/129-eva-diallo.jpg",
+   "ratio": 0.75,
+   "legende": "",
+   "oeuvre_url": "https://cecilefakhoury.com/artists/129-eva-diallo/overview/",
+   "lieux_galerie": [],
+   "lieux_actu": [
+    "Dakar"
+   ],
+   "lieux": [
+    "Dakar"
+   ],
+   "en_cours": [],
+   "a_venir": [
+    {
+     "titre": "16e édition de la Biennale de Dakar : (anti)fragilité : arts de la réparation et stratégies du contrecoup",
+     "lieu": "",
+     "periode": "19 nov. – 19 déc. 2026",
+     "debut": "2026-11-19",
+     "fin": "2026-12-19",
+     "type": "Exposition",
+     "etat": "a_venir",
+     "url": "https://cecilefakhoury.com/events/537/",
+     "source": "Site de la galerie, rubrique Actualités"
+    }
+   ],
+   "recentes": [],
+   "presse": [],
+   "presse_total": 0,
+   "opportunites": [],
+   "deplacements": [
+    {
+     "titre": "Untitled #18, série Diallo Diery",
+     "de": "Dakar, réserve",
+     "vers": "Abidjan, collectionneur",
+     "statut": "Devis demandés",
+     "depart": "26 nov. 2026",
+     "arrivee": "5 déc. 2026",
+     "motif": "Collectionneur"
+    }
+   ],
+   "demandes_presse": [],
+   "dossier": {
+    "maj": "18 avr. 2026",
+    "iso": "2026-04-18",
+    "a_jour": true,
+    "nouveaux": 0,
+    "dernier_fait": "19 févr. 2026"
+   }
+  },
+  {
+   "nom": "Ernest Dükü",
+   "statut": "Collaboration",
+   "url": "https://cecilefakhoury.com/artists/139-ernest-duku/overview/",
+   "img": "img/139-ernest-duku.jpg",
+   "ratio": 0.702,
+   "legende": "",
+   "oeuvre_url": "https://cecilefakhoury.com/artists/139-ernest-duku/overview/",
+   "lieux_galerie": [],
+   "lieux_actu": [],
+   "lieux": [],
+   "en_cours": [],
+   "a_venir": [],
+   "recentes": [],
+   "presse": [],
+   "presse_total": 0,
+   "opportunites": [],
+   "deplacements": [],
+   "demandes_presse": [],
+   "dossier": {
+    "maj": "12 janv. 2026",
+    "iso": "2026-01-12",
+    "a_jour": false,
+    "nouveaux": 1,
+    "dernier_fait": "26 juin 2026"
+   }
+  },
+  {
+   "nom": "Fanny Irina",
+   "statut": "Collaboration",
+   "url": "https://cecilefakhoury.com/artists/118-fanny-irina/overview/",
+   "img": "img/118-fanny-irina.jpg",
+   "ratio": 0.98,
+   "legende": "",
+   "oeuvre_url": "https://cecilefakhoury.com/artists/118-fanny-irina/overview/",
+   "lieux_galerie": [],
+   "lieux_actu": [],
+   "lieux": [],
+   "en_cours": [],
+   "a_venir": [],
+   "recentes": [],
+   "presse": [],
+   "presse_total": 0,
+   "opportunites": [],
+   "deplacements": [],
+   "demandes_presse": [],
+   "dossier": {
+    "maj": "30 janv. 2026",
+    "iso": "2026-01-30",
+    "a_jour": true,
+    "nouveaux": 0,
+    "dernier_fait": ""
+   }
+  },
+  {
+   "nom": "Ange-Frédéric Koffi",
+   "statut": "Collaboration",
+   "url": "https://cecilefakhoury.com/artists/115-ange-frederic-koffi/overview/",
+   "img": "img/115-ange-frederic-koffi.jpg",
+   "ratio": 0.667,
+   "legende": "",
+   "oeuvre_url": "https://cecilefakhoury.com/artists/115-ange-frederic-koffi/overview/",
+   "lieux_galerie": [],
+   "lieux_actu": [],
+   "lieux": [],
+   "en_cours": [],
+   "a_venir": [],
+   "recentes": [],
+   "presse": [
+    {
+     "titre": "Biennale de la Photographie de Mulhouse 2026 : La Filature : Settled",
+     "media": "L'Oeil De La Photographie",
+     "date": "3 juil. 2026",
+     "iso": "2026-07-03",
+     "url": "https://loeildelaphotographie.com/fr/biennale-de-la-photographie-de-mulhouse-2026-la-filature-settled/",
+     "source": "Site de la galerie, rubrique Presse"
+    }
+   ],
+   "presse_total": 1,
+   "opportunites": [],
+   "deplacements": [],
+   "demandes_presse": [],
+   "dossier": {
+    "maj": "2 mai 2026",
+    "iso": "2026-05-02",
+    "a_jour": false,
+    "nouveaux": 2,
+    "dernier_fait": "3 juil. 2026"
+   }
+  },
+  {
+   "nom": "Kambui Olujimi",
+   "statut": "Collaboration",
+   "url": "https://cecilefakhoury.com/artists/131-kambui-olujimi/overview/",
+   "img": "img/131-kambui-olujimi.jpg",
+   "ratio": 0.827,
+   "legende": "",
+   "oeuvre_url": "https://cecilefakhoury.com/artists/131-kambui-olujimi/overview/",
+   "lieux_galerie": [],
+   "lieux_actu": [],
+   "lieux": [],
+   "en_cours": [],
+   "a_venir": [],
+   "recentes": [],
+   "presse": [],
+   "presse_total": 0,
+   "opportunites": [],
+   "deplacements": [],
+   "demandes_presse": [],
+   "dossier": {
+    "maj": "25 août 2026",
+    "iso": "2026-08-25",
+    "a_jour": true,
+    "nouveaux": 0,
+    "dernier_fait": ""
+   }
+  },
+  {
+   "nom": "Na Chainkua Reindorf",
+   "statut": "Collaboration",
+   "url": "https://cecilefakhoury.com/artists/111-na-chainkua-reindorf/overview/",
+   "img": "img/111-na-chainkua-reindorf.jpg",
+   "ratio": 0.786,
+   "legende": "",
+   "oeuvre_url": "https://cecilefakhoury.com/artists/111-na-chainkua-reindorf/overview/",
+   "lieux_galerie": [
+    "Dakar"
+   ],
+   "lieux_actu": [],
+   "lieux": [
+    "Dakar"
+   ],
+   "en_cours": [],
+   "a_venir": [],
+   "recentes": [],
+   "presse": [],
+   "presse_total": 0,
+   "opportunites": [],
+   "deplacements": [],
+   "demandes_presse": [],
+   "dossier": {
+    "maj": "10 juin 2026",
+    "iso": "2026-06-10",
+    "a_jour": true,
+    "nouveaux": 0,
+    "dernier_fait": "6 déc. 2025"
+   }
+  },
+  {
+   "nom": "Paul Sika",
+   "statut": "Collaboration",
+   "url": "https://cecilefakhoury.com/artists/39-paul-sika/overview/",
+   "img": "img/39-paul-sika.jpg",
+   "ratio": 1.0,
+   "legende": "",
+   "oeuvre_url": "https://cecilefakhoury.com/artists/39-paul-sika/overview/",
+   "lieux_galerie": [],
+   "lieux_actu": [],
+   "lieux": [],
+   "en_cours": [],
+   "a_venir": [],
+   "recentes": [],
+   "presse": [],
+   "presse_total": 0,
+   "opportunites": [],
+   "deplacements": [],
+   "demandes_presse": [],
+   "dossier": {
+    "maj": "8 mars 2026",
+    "iso": "2026-03-08",
+    "a_jour": true,
+    "nouveaux": 0,
+    "dernier_fait": ""
+   }
+  },
+  {
+   "nom": "Werewere-Liking",
+   "statut": "Collaboration",
+   "url": "https://cecilefakhoury.com/artists/138-werewere-liking/overview/",
+   "img": "img/138-werewere-liking.jpg",
+   "ratio": 1.373,
+   "legende": "",
+   "oeuvre_url": "https://cecilefakhoury.com/artists/138-werewere-liking/overview/",
+   "lieux_galerie": [],
+   "lieux_actu": [],
+   "lieux": [],
+   "en_cours": [
+    {
+     "titre": "Collaboration : biennale di venezia",
+     "lieu": "",
+     "periode": "9 mai – 22 nov. 2026",
+     "debut": "2026-05-09",
+     "fin": "2026-11-22",
+     "type": "Exposition",
+     "etat": "en_cours",
+     "url": "https://cecilefakhoury.com/events/479/",
+     "source": "Site de la galerie, rubrique Actualités"
+    }
+   ],
+   "a_venir": [],
+   "recentes": [],
+   "presse": [],
+   "presse_total": 0,
+   "opportunites": [],
+   "deplacements": [],
+   "demandes_presse": [],
+   "dossier": {
+    "maj": "27 avr. 2026",
+    "iso": "2026-04-27",
+    "a_jour": false,
+    "nouveaux": 3,
+    "dernier_fait": "26 juin 2026"
+   }
+  }
+ ],
+ "totaux": {
+  "artistes": 34,
+  "representes": 26,
+  "en_cours": 10,
+  "a_venir": 9,
+  "expos_en_cours": 17,
+  "expos_a_venir": 5,
+  "presse_6m": 28,
+  "opportunites": 12,
+  "deplacements": 8,
+  "dossiers_a_maj": 17
+ }
+}
